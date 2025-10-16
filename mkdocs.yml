@@ -1,0 +1,40 @@
+site_name: TXRX Mobile Crossing Manual
+site_url: https://niell-ion.github.io/crossing-docs/
+theme:
+  name: material
+  palette: 
+    primary: deep orange
+    accent: blue
+  features:
+    - navigation.footer
+site_name: Crossing Manual
+site_author: Transmit Receive Labs Inc.
+site_description: Assembly and setup documentation
+nav:
+  - Home: index.md
+  - System Overview: crossing_overview.md
+  - Setup: crossing_setup.md
+  - Operation: crossing_operation.md
+  - Maintenance: crossing_maintenance.md
+  - Troubleshooting: crossing_troubleshooting.md
+plugins:
+  - to-pdf:
+      output_path: document.pdf
+      # enabled_if_env: ENABLE_PDF_EXPORT
+  - caption:
+copyright: Copyright &copy; 2025 Transmit Receive Labs Inc.
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid-experimental
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition:
+  - pymdownx.details:
+  - pymdownx.superfences:
+  - toc:
+      permalink: true
+  - attr_list:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
