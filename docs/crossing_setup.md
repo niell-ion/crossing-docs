@@ -1,4 +1,4 @@
-## Preparation
+## Safety Information
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
@@ -8,9 +8,17 @@ Attempting installation without the specified tools may result in improper assem
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
 
+### Required Personal Protective Equipment (PPE)
+
+* Hard Hat
+
+* Earplugs or Earmuffs
+
+* Gloves
+
 ---
 
-## Tools and Equipment
+### Tools and Equipment
 
 * Measuring Tape
 
@@ -24,36 +32,26 @@ Site preparation must be completed before installing the derail system.
 
 * 1/8" Slotted Screwdriver
 
-* Utility Knife
-
-* Cordless Drill + Drill Bits
-
-* Ratchet and Socket Set
-
-* Fish Tape or Pulling Rods
-
 * Level (Bubble or Digital)
-
-* Personal Protective Equipment (PPE): As required
 
 ---
 
 ## Towing Procedure
 
 !!! warning "Towing"
-    Trailer is not registered for towing on public roads. Trailer must be transported via flatbed to traverse public roads.
+    Trailer is not registered for towing on public roads. Trailer must be transported via flatbed to traverse public roads.  
     
 - Securing components for towing
-   - Arm
-   - Lights
-   - Sign
+   - Arm  
+   - Lights  
+   - Sign  
 
-## Site Prep
+## Site Preparation
 
-- Clearance
-- Orientation of arm and sign
-- Levelness/flatness
-- Solar angle
+- Clearance  
+- Orientation of arm and sign  
+- Levelness/flatness  
+- Solar angle  
 
 Jacks
 - Must have enough travel to lift tires off the ground
@@ -117,15 +115,15 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 * Spring/Fall: **Latitude only**  
 
 !!! example
-    Spring/Fall tilt angle = **38.2°**    
+    Spring/Fall tilt angle = **38.2°**  
     Winter tilt angle = 38.2 + 15 = **53.2°**  
     Summer tilt angle = 38.2 – 15 = **23.2°**  
 
 ---
 
 Setting up the arm
-- 8'-16': use the smaller metal piece
-- 9'-22': use the larger metal piece + a middle piece
+- 8'-16': use the smaller metal piece  
+- 9'-22': use the larger metal piece + a middle piece  
 
 Do not remove counterweight blocker
 
