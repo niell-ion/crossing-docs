@@ -10,6 +10,34 @@ Site preparation must be completed before installing the derail system.
 
 ---
 
+## Tools and Equipment
+
+* Measuring Tape
+
+* Tamping Pick or Pickaxe
+
+* Multimeter
+
+* Metric Allen Key Set
+
+* Adjustable Wrench x2
+
+* 1/8" Slotted Screwdriver
+
+* Utility Knife
+
+* Cordless Drill + Drill Bits
+
+* Ratchet and Socket Set
+
+* Fish Tape or Pulling Rods
+
+* Level (Bubble or Digital)
+
+* Personal Protective Equipment (PPE): As required
+
+---
+
 ## Towing Procedure
 
 !!! warning "Towing"
@@ -41,7 +69,10 @@ Jacks
 ## Setup
 
 !!! warning "Levelness"
-    Ensure trailer is level and jacks are secured before proceeding with setup
+    Trailer leveling must be complete before proceeding with setup
+    
+!!! warning "Weather"
+    Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.
 
 Refer to WCH Manual
 - Arm setup
@@ -57,14 +88,16 @@ Setting up the arm
 - 8'-16': use the smaller metal piece
 - 9'-22': use the larger metal piece + a middle piece
 
+Do not remove counterweight blocker
+
 ## Software
 
 - Connecting the controller
 
 ## Electrical
 
-Connect solar panel
+- Connect solar panel
 
-Connect lights
+- Connect lights
 
 Emergency disconnect is under hatch on battery box
