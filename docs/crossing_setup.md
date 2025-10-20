@@ -8,13 +8,20 @@ Attempting installation without the specified tools may result in improper assem
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
 
-### Required Personal Protective Equipment (PPE)
+### Personal Protective Equipment (PPE)
+
+!!! warning "Disclaimer"
+    PPE **must** be equipped before beginning assembly.
 
 * Hard Hat
 
 * Earplugs or Earmuffs
 
 * Gloves
+
+* Steel Toe Footwear
+
+* High visibiltiy
 
 ---
 
