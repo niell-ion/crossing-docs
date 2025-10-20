@@ -13,15 +13,15 @@ Site preparation must be completed before installing the derail system.
 !!! warning "Disclaimer"
     PPE must be equipped before beginning assembly.
 
-* Hard Hat
+* Hard Hat  
 
-* Earplugs or Earmuffs
+* Earplugs or Earmuffs  
 
-* Gloves
+* Gloves  
 
-* Steel Toe Footwear
+* Steel Toe Footwear  
 
-* High visibiltiy
+* High Visibility Clothing
 
 ---
 
