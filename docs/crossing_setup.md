@@ -53,6 +53,10 @@ Refer to WCH Manual
 - Adding counterweights
 - Solar panel/lights
 
+Setting up the arm
+- 8'-16': use the smaller metal piece
+- 9'-22': use the larger metal piece + a middle piece
+
 ## Software
 
 - Connecting the controller
@@ -62,3 +66,5 @@ Refer to WCH Manual
 Connect solar panel
 
 Connect lights
+
+Emergency disconnect is under hatch on battery box
