@@ -11,7 +11,7 @@ Site preparation must be completed before installing the derail system.
 ### Personal Protective Equipment (PPE)
 
 !!! warning "Disclaimer"
-    PPE must be equipped before beginning assembly.
+    PPE must be equipped before transport, maintenance, or assembly.
 
 * Hard Hat  
 
