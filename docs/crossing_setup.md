@@ -10,12 +10,14 @@ Site preparation must be completed before installing the derail system.
 
 ### Personal Protective Equipment (PPE)
 
-!!! warning "Disclaimer"
-    PPE must be equipped before transport, maintenance, or assembly.
+!!! warning "PPE Advisory"
+    All required personal protective equipment must be equipped before transport, maintenance, or assembly.
 
 * Hard Hat  
 
-* Earplugs or Earmuffs  
+* Earplugs or Earmuffs
+
+* Safety Glasses
 
 * Gloves  
 
