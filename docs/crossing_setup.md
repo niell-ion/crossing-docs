@@ -57,12 +57,24 @@ Site preparation must be completed before installing the derail system.
 
 ## Site Preparation
 
-- Clearance  
-- Orientation of arm and sign  
-- Levelness/flatness  
+- Clearance
+
+
+- Orientation of arm and sign
+
+
+- Levelness/flatness
+
+
 - Solar angle  
 
-Jacks
+### Trailer Jacks
+
+The trailer has leveling jacks located at each of the four corners.
+
+!!! warning "Jack Warning"
+    Do not use the fifth wheel jack to support or level the trailer
+    
 - Must have enough travel to lift tires off the ground
 - Firm enough ground
 - Concrete paver/footer
