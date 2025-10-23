@@ -1,4 +1,4 @@
-## Safety Information
+## Safety
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
@@ -7,6 +7,8 @@ Attempting installation without the specified tools may result in improper assem
 
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
+
+---
 
 ### Personal Protective Equipment (PPE)
 
