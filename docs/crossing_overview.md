@@ -4,6 +4,9 @@
 - Battery box
 - Arm holder
 - Counterweight holder
+
+## Gate Assembly
+
 - Actuator
 - Lights
 - Crossbuck
