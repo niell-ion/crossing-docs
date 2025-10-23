@@ -1,0 +1,863 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Assembly and setup documentation">
+      
+      
+        <meta name="author" content="Transmit Receive Labs Inc.">
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/crossing-docs/crossing_setup/">
+      
+      
+        <link rel="prev" href="../crossing_overview/">
+      
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.22">
+    
+    
+      
+        <title>Setup - Crossing Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.84d31ad4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#safety" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Crossing Manual" class="md-header__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Crossing Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Setup
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Crossing Manual" class="md-nav__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Crossing Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Home
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    System Overview
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Setup
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#safety" class="md-nav__link">
+    <span class="md-ellipsis">
+      Safety
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Safety">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#personal-protective-equipment-ppe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Personal Protective Equipment (PPE)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools and Equipment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#towing-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Towing Procedure
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#site-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Site Preparation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Site Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trailer-jacks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trailer Jacks
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setup
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel Setup
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electrical" class="md-nav__link">
+    <span class="md-ellipsis">
+      Electrical
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_operation.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Operation
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_maintenance.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Maintenance
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_troubleshooting.md" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Troubleshooting
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#safety" class="md-nav__link">
+    <span class="md-ellipsis">
+      Safety
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Safety">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#personal-protective-equipment-ppe" class="md-nav__link">
+    <span class="md-ellipsis">
+      Personal Protective Equipment (PPE)
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tools and Equipment
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#towing-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      Towing Procedure
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#site-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      Site Preparation
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Site Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#trailer-jacks" class="md-nav__link">
+    <span class="md-ellipsis">
+      Trailer Jacks
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Setup
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      Solar Panel Setup
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#software" class="md-nav__link">
+    <span class="md-ellipsis">
+      Software
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electrical" class="md-nav__link">
+    <span class="md-ellipsis">
+      Electrical
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Setup</h1>
+
+<h2 id="safety">Safety<a class="headerlink" href="#safety" title="Permanent link">¶</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Disclaimer</p>
+<p>Always ensure you have the correct tools and training before beginning installation.  </p>
+</div>
+<p>Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  </p>
+<p>Before beginning installation, confirm that all required tools and components are available.<br>
+Site preparation must be completed before installing the derail system.  </p>
+<hr>
+<h3 id="personal-protective-equipment-ppe">Personal Protective Equipment (PPE)<a class="headerlink" href="#personal-protective-equipment-ppe" title="Permanent link">¶</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">PPE Advisory</p>
+<p>All required personal protective equipment must be equipped before transport, maintenance, or assembly.</p>
+</div>
+<ul>
+<li>
+<p>Hard Hat  </p>
+</li>
+<li>
+<p>Earplugs or Earmuffs</p>
+</li>
+<li>
+<p>Safety Glasses</p>
+</li>
+<li>
+<p>Gloves  </p>
+</li>
+<li>
+<p>Steel Toe Footwear  </p>
+</li>
+<li>
+<p>High Visibility Clothing</p>
+</li>
+</ul>
+<hr>
+<h3 id="tools-and-equipment">Tools and Equipment<a class="headerlink" href="#tools-and-equipment" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Measuring Tape</p>
+</li>
+<li>
+<p>Tamping Pick or Pickaxe</p>
+</li>
+<li>
+<p>Multimeter</p>
+</li>
+<li>
+<p>Metric Allen Key Set</p>
+</li>
+<li>
+<p>Adjustable Wrench x2</p>
+</li>
+<li>
+<p>1/8" Slotted Screwdriver</p>
+</li>
+<li>
+<p>Level (Bubble or Digital)</p>
+</li>
+</ul>
+<hr>
+<h2 id="towing-procedure">Towing Procedure<a class="headerlink" href="#towing-procedure" title="Permanent link">¶</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Towing</p>
+<p>Trailer is not registered for towing on public roads. Trailer must be transported via flatbed to traverse public roads.  </p>
+</div>
+<ul>
+<li>Securing components for towing</li>
+<li>Arm  </li>
+<li>Lights  </li>
+<li>Sign  </li>
+</ul>
+<h2 id="site-preparation">Site Preparation<a class="headerlink" href="#site-preparation" title="Permanent link">¶</a></h2>
+<ul>
+<li>
+<p>Clearance</p>
+</li>
+<li>
+<p>Orientation of arm and sign</p>
+</li>
+<li>
+<p>Levelness/flatness</p>
+</li>
+<li>
+<p>Solar angle  </p>
+</li>
+</ul>
+<h3 id="trailer-jacks">Trailer Jacks<a class="headerlink" href="#trailer-jacks" title="Permanent link">¶</a></h3>
+<p>The trailer has leveling jacks located at each of the four corners.</p>
+<div class="admonition warning">
+<p class="admonition-title">Jack Warning</p>
+<p>Do not use the fifth wheel jack to support or level the trailer</p>
+</div>
+<ul>
+<li>Must have enough travel to lift tires off the ground</li>
+<li>Firm enough ground</li>
+<li>Concrete paver/footer</li>
+<li>Check arm height, must be MUTCD regulation compliant</li>
+<li>Trailer is level, wheels are off the ground</li>
+<li>Relative distance calculation</li>
+<li>
+<p>Only use corner jacks</p>
+</li>
+<li>
+<p>Leveling the trailer jacks</p>
+</li>
+</ul>
+<h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">¶</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Levelness</p>
+<p>Trailer leveling must be complete before proceeding with setup</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Weather</p>
+<p>Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.</p>
+</div>
+<p>Refer to WCH Manual
+- Arm setup
+- Bell setup
+- Counterweight setup</p>
+<ul>
+<li>Extending the arm</li>
+<li>Raising the crossbuck</li>
+<li>Adding counterweights</li>
+</ul>
+<hr>
+<h3 id="solar-panel-setup">Solar Panel Setup<a class="headerlink" href="#solar-panel-setup" title="Permanent link">¶</a></h3>
+<p>For proper operation, the solar panel must receive direct sunlight from <strong>10:00 AM</strong> to <strong>3:00 PM</strong> without obstruction from structures, railcars, or vegetation.  </p>
+<p>For installations north of the Equator, the solar panel should face <strong>south</strong> for optimal efficiency.</p>
+<ul>
+<li>
+<p>Observe the site and ensure that the solar panel will receive sun once installed.</p>
+</li>
+<li>
+<p>Two locations with <strong>1/4"-20</strong> threaded stud patterns are provided for mounting the solar panel and light assemblies.</p>
+</li>
+<li>
+<p>The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  </p>
+</li>
+</ul>
+<p><strong>Step 1: Measure Tilt Angle</strong></p>
+<p>The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.</p>
+<ul>
+<li>
+<p>Use a maps or GPS app to measure the site latitude.</p>
+</li>
+<li>
+<p>Set the tilt angle equal to the latitude.</p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Latitude 38.2° → Tilt angle <strong>38.2°</strong></p>
+</div>
+<p><strong>Step 2: Seasonal adjustments:</strong></p>
+<ul>
+<li>
+<p>Winter: <strong>Latitude + 15°</strong>  </p>
+</li>
+<li>
+<p>Summer: <strong>Latitude – 15°</strong>  </p>
+</li>
+<li>
+<p>Spring/Fall: <strong>Latitude only</strong>  </p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Spring/Fall tilt angle = <strong>38.2°</strong><br>
+Winter tilt angle = 38.2 + 15 = <strong>53.2°</strong><br>
+Summer tilt angle = 38.2 – 15 = <strong>23.2°</strong>  </p>
+</div>
+<hr>
+<p>Setting up the arm
+- 8'-16': use the smaller metal piece<br>
+- 9'-22': use the larger metal piece + a middle piece  </p>
+<p>Do not remove counterweight blocker</p>
+<h2 id="software">Software<a class="headerlink" href="#software" title="Permanent link">¶</a></h2>
+<ul>
+<li>Connecting the controller</li>
+</ul>
+<h2 id="electrical">Electrical<a class="headerlink" href="#electrical" title="Permanent link">¶</a></h2>
+<ul>
+<li>
+<p>Connect solar panel</p>
+</li>
+<li>
+<p>Connect lights</p>
+</li>
+</ul>
+<p>Emergency disconnect is under hatch on battery box</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../crossing_overview/" class="md-footer__link md-footer__link--prev" aria-label="Previous: System Overview">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                System Overview
+              </div>
+            </div>
+          </a>
+        
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Transmit Receive Labs Inc.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": ["navigation.footer"], "search": "../assets/javascripts/workers/search.973d3a69.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.f55a23d4.min.js"></script>
+      
+    
+  </body>
+</html>
