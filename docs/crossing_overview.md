@@ -1,11 +1,12 @@
 ## Trailer Assembly
 
 - Trailer jacks
-- Battery box
+- Battery enclosure
+- Controller enclosure
 - Arm mounts
 - Solar panel mounts
 - Counterweight holder
-- Remote box
+- Remote enclosure
 
 ## Gate Assembly
 
@@ -13,7 +14,6 @@
 - Lights
 - Crossbuck
 - Bell
-- Remote holder
 
 ## Arm Assembly
 
@@ -21,5 +21,10 @@
 - Short metal section
 - Middle section
 - End section
-- Counterweights
+- Counterweight plates
 - Lights
+
+# Remote
+
+- Remote controller
+- Charging cradle
