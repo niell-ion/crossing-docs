@@ -2,8 +2,10 @@
 
 - Trailer jacks
 - Battery box
-- Arm holder
+- Arm mounts
+- Solar panel mounts
 - Counterweight holder
+- Remote box
 
 ## Gate Assembly
 
