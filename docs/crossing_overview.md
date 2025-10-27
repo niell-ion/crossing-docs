@@ -24,7 +24,7 @@
 - Counterweight plates
 - Lights
 
-# Remote
+## Remote
 
 - Remote controller
 - Charging cradle
