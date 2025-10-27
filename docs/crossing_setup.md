@@ -1,5 +1,3 @@
-# Setup
-
 ## Safety
 
 !!! warning "Disclaimer"
