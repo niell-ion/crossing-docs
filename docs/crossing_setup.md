@@ -55,7 +55,8 @@ Site preparation must be completed before installing the derail system.
 - Securing components for towing
    - Arm  
    - Lights  
-   - Sign  
+   - Sign
+   - Counterweights
 
 
 
@@ -161,14 +162,18 @@ Do not remove counterweight blocker
 
 - Connecting the controller
 
+
+
 ## Electrical
 
 ### Connecting the Solar Panel
 
-- Connect solar jack on battery to solar plug attached to panel
-- If installation requires two solar panels, use provided Y-splitter
-- Ensure the connection is secure and tight
+- Connect solar jack on battery to solar plug attached to panel.
+- If the installation requires two solar panels, use the provided Y-splitter to connect both panels to the battery input.
+- Ensure all connections are secure and fully seated.
 
-- Connect lights
+
+
+### Connecting the Lights
 
 Emergency disconnect is under hatch on battery box
