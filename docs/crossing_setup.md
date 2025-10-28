@@ -50,9 +50,9 @@ Site preparation must be completed before installing the derail system.
 ## Towing Procedure
 
 !!! warning "Towing"
-    Trailer is not registered for towing on public roads. Trailer must be transported via flatbed to traverse public roads.  
+    The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
     
-- Securing components for towing
+### Securing Components
    - Arm  
    - Lights  
    - Sign
@@ -62,17 +62,19 @@ Site preparation must be completed before installing the derail system.
 
 ## Site Preparation
 
-- Clearance
-
+### Check Clearance
 
 - Orientation of arm and sign
 
+
+
+### Check Levelness
 
 - Levelness/flatness
 
 
 
-### Solar Panel Setup
+### Determine Solar Angle
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 
