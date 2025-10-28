@@ -8,7 +8,7 @@ Attempting installation without the specified tools may result in improper assem
 Before beginning installation, confirm that all required tools and components are available.  
 Site preparation must be completed before installing the derail system.  
 
----
+
 
 ### Personal Protective Equipment (PPE)
 
@@ -27,7 +27,7 @@ Site preparation must be completed before installing the derail system.
 
 * High Visibility Clothing
 
----
+
 
 ### Tools and Equipment
 
@@ -45,7 +45,7 @@ Site preparation must be completed before installing the derail system.
 
 * Level (Bubble or Digital)
 
----
+
 
 ## Towing Procedure
 
@@ -57,7 +57,7 @@ Site preparation must be completed before installing the derail system.
    - Lights  
    - Sign  
 
----
+
 
 ## Site Preparation
 
@@ -69,7 +69,7 @@ Site preparation must be completed before installing the derail system.
 
 - Levelness/flatness
 
----
+
 
 ### Solar Panel Setup
 
@@ -107,7 +107,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
     Winter tilt angle = 38.2 + 15 = **53.2°**  
     Summer tilt angle = 38.2 – 15 = **23.2°**  
 
----
+
 
 ### Trailer Jacks
 
@@ -126,6 +126,8 @@ The trailer has leveling jacks located at each of the four corners.
 
 - Leveling the trailer jacks
 
+
+
 ## Setup
 
 !!! warning "Levelness"
@@ -143,12 +145,10 @@ Refer to WCH Manual
 - Raising the crossbuck
 - Adding counterweights
 
---- 
 
 
----
+### Arm Setup
 
-Setting up the arm
 - 8'-16': use the smaller metal piece  
 - 9'-22': use the larger metal piece + a middle piece  
 
