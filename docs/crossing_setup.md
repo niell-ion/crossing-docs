@@ -158,12 +158,6 @@ Do not remove counterweight blocker
 
 
 
-## Software
-
-- Connecting the controller
-
-
-
 ## Electrical
 
 ### Connecting the Solar Panel
@@ -177,3 +171,12 @@ Do not remove counterweight blocker
 ### Connecting the Lights
 
 Emergency disconnect is under hatch on battery box
+
+
+
+## Software
+
+### Connecting the Remote
+
+
+
