@@ -8,12 +8,16 @@
 - Counterweight holder
 - Remote enclosure
 
+
+
 ## Gate Assembly
 
 - Actuator
 - Lights
 - Crossbuck
 - Bell
+
+
 
 ## Arm Assembly
 
@@ -24,7 +28,11 @@
 - Counterweight plates
 - Lights
 
+
+
 ## Remote
 
 - Remote controller
 - Charging cradle
+
+
