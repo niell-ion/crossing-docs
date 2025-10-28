@@ -7,6 +7,8 @@ It provides step-by-step instructions to safely and effectively operate and main
 !!! warning
     This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.
 
+
+
 ### How to Use This Manual
 
 This manual is organized into clearly labeled sections for quick reference:
@@ -28,10 +30,8 @@ This manual is organized into clearly labeled sections for quick reference:
 
 * **Appendices** – Include wiring diagrams, part numbers, and calibration logs.
 
----
-  
-  
-  
+
+
 ## Safety Information
 
 The safety instructions included at this point are general safety instructions.
@@ -47,7 +47,7 @@ You will find particular safety instructions at the beginning of each chapter or
 
 * Once accidents happen, they cannot be undone.
 
----
+
 
 ### Safety Warning
 
@@ -65,7 +65,7 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 * Use only manufacturer-approved accessories and replacement parts.
 
----
+
 
 ### Safety Disclaimer
 
@@ -84,8 +84,6 @@ The manufacturer assumes no liability for damage or injury resulting from:
 
 By operating this equipment, the user agrees to accept all responsibility for its safe use. 
 If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
-
----
 
 
 
