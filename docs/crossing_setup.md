@@ -96,16 +96,16 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 **Step 2: Seasonal adjustments:**
 
-* Winter Tilt Angle = **Latitude + 15°**  
+* Winter = **Latitude + 15°**  
 
-* Summer Tilt Angle = **Latitude – 15°**  
+* Summer = **Latitude – 15°**  
 
-* Spring/Fall Tilt Angle = **Latitude only**  
+* Spring/Fall = **Latitude only**  
 
 !!! example
     Spring/Fall tilt angle = **38.2°**  
-    Winter tilt angle = 38.2 + 15 = **53.2°**  
-    Summer tilt angle = 38.2 – 15 = **23.2°**  
+    Winter tilt angle = 38.2° + 15° = **53.2°**  
+    Summer tilt angle = 38.2° – 15° = **23.2°**  
 
 
 
