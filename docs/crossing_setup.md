@@ -57,6 +57,8 @@ Site preparation must be completed before installing the derail system.
    - Lights  
    - Sign  
 
+---
+
 ## Site Preparation
 
 - Clearance
@@ -67,8 +69,45 @@ Site preparation must be completed before installing the derail system.
 
 - Levelness/flatness
 
+---
 
-- Solar angle  
+### Solar Panel Setup
+
+For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
+
+For installations north of the Equator, the solar panel should face **south** for optimal efficiency.
+
+* Observe the site and ensure that the solar panel will receive sun once installed.
+
+* Two locations with **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
+
+* The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
+
+**Step 1: Measure Tilt Angle**
+
+The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.
+
+* Use a maps or GPS app to measure the site latitude.
+
+* Set the tilt angle equal to the latitude.
+
+!!! example
+    Latitude 38.2° → Tilt angle **38.2°**
+
+**Step 2: Seasonal adjustments:**
+
+* Winter: **Latitude + 15°**  
+
+* Summer: **Latitude – 15°**  
+
+* Spring/Fall: **Latitude only**  
+
+!!! example
+    Spring/Fall tilt angle = **38.2°**  
+    Winter tilt angle = 38.2 + 15 = **53.2°**  
+    Summer tilt angle = 38.2 – 15 = **23.2°**  
+
+---
 
 ### Trailer Jacks
 
@@ -106,41 +145,6 @@ Refer to WCH Manual
 
 --- 
 
-### Solar Panel Setup
-
-For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
-
-For installations north of the Equator, the solar panel should face **south** for optimal efficiency.
-
-* Observe the site and ensure that the solar panel will receive sun once installed.
-
-* Two locations with **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
-
-* The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
-
-**Step 1: Measure Tilt Angle**
-
-The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.
-
-* Use a maps or GPS app to measure the site latitude.
-
-* Set the tilt angle equal to the latitude.
-
-!!! example
-    Latitude 38.2° → Tilt angle **38.2°**
-
-**Step 2: Seasonal adjustments:**
-
-* Winter: **Latitude + 15°**  
-
-* Summer: **Latitude – 15°**  
-
-* Spring/Fall: **Latitude only**  
-
-!!! example
-    Spring/Fall tilt angle = **38.2°**  
-    Winter tilt angle = 38.2 + 15 = **53.2°**  
-    Summer tilt angle = 38.2 – 15 = **23.2°**  
 
 ---
 
