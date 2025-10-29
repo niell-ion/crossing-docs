@@ -192,7 +192,7 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 The trailer is equipped with four corner-mounted leveling jacks, one at each corner of the frame. These jacks are used to stabilize and level the trailer after it has been positioned at the installation site.
 
-!!! warning "Jack Warning"
+!!! warning "Level with Corner Jacks Only"
     Do not use the fifth-wheel jack (tongue jack) to support or level the trailer.
     The fifth-wheel jack is intended only for hitching and towing. Using it for leveling may cause frame distortion or unsafe loading.
 
