@@ -171,15 +171,11 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 **Step 2: Leveling Procedure**
 
-- Initial setup.
+* Park the trailer in the desired position and set the wheel chocks to prevent rolling.
 
-- Park the trailer in the desired position and set the wheel chocks to prevent rolling.
+* Disconnect the trailer from the towing vehicle if necessary.
 
-- Disconnect the trailer from the towing vehicle if necessary.
-
-* Lower the corner jacks.
-
-* Start with the rear jacks to stabilize the frame.
+* Lower the corner jacks, starting with the rear jacks to stabilize the frame.
 
 * Lower each jack until it makes firm contact with the ground or paver.
 
@@ -197,7 +193,7 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 * Ensure the wheels are off the ground and the jack arms are extended within safe limits.
 
-* Check that any mounted components (such as armatures or signage) meet MUTCD height requirements or local clearance regulations.
+* Check that arm, lights, and crossbuck meet MUTCD height requirements relative to roadway.
 
 * The trailer must remain stationary and rigid when moderate force is applied to any corner.
 
