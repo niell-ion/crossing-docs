@@ -1,6 +1,6 @@
 ## Safety
 
-!!! warning "Disclaimer"
+!!! caution "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
 
 Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  
@@ -49,15 +49,21 @@ Site preparation must be completed before installing the derail system.
 
 ## Towing Procedure
 
-!!! warning "Towing"
+!!! caution "Towing Advisory"
     The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
     
 ### Securing Components
 
-   - Arm  
-   - Lights  
-   - Sign
-   - Counterweights
+!!! warning "Secure Before Towing"
+    Failure to secure all components before moving or towing the trailer may result in injury and/or damage to equipment.
+
+**Step 1: Dissasemble and Secure the Arm**  
+
+**Step 2: Secure the Lights**
+
+**Step 3: Lower the Sign**
+
+**Step 4: Stow Arm Counterweights**
 
 
 
@@ -90,7 +96,6 @@ Before finalizing trailer placement or beginning system operation, verify that a
 * Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.
 
 * If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.
-Orientation of arm and sign
 
 **Step 4: Lock and Secure**
 
@@ -147,7 +152,9 @@ Orientation of arm and sign
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 
-For installations north of the Equator, the solar panel should face **south** for optimal efficiency.
+**Step 1: Determine Panel Direction
+
+* For installations north of the Equator, the solar panel should face **south** for optimal efficiency.
 
 * Observe the site and ensure that the solar panel will receive sun once installed.
 
