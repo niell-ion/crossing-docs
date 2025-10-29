@@ -57,13 +57,17 @@ Site preparation must be completed before installing the derail system.
 !!! warning "Secure Before Towing"
     Failure to secure all components before moving or towing the trailer may result in injury and/or damage to equipment.
 
+
+
 **Step 1: Dissasemble and Secure the Arm**  
+
 * Remove arm sections one at a time. Stow sections in holder and secure with included clamp.
 
 **Step 2: Secure the Lights**
 
-**Step 3: Lower the Sign**
-* Fold the crossbuck 
+**Step 3: Lower the Crossbuck and Antennas**
+
+* Use the crank to lower the crossbuck and antennas
 
 **Step 4: Stow Arm Counterweights**
 * Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
@@ -77,6 +81,8 @@ Site preparation must be completed before installing the derail system.
 
 Before finalizing trailer placement or beginning system operation, verify that all mounted components — particularly the arm assembly and sign structure — have adequate clearance in their intended orientation and operating range.
 
+
+
 **Step 1: Verify Arm Orientation**
 
 * Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame (refer to Figure 4-3).
@@ -84,6 +90,8 @@ Before finalizing trailer placement or beginning system operation, verify that a
 * The pivot or hinge side should align with the mounting reference point specified in the assembly drawing.
 
 * Ensure there are no obstructions above or beside the arm that could interfere with its full range of motion.
+
+
 
 **Step 2: Check Sign Orientation**
 
@@ -93,6 +101,8 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 * If applicable, confirm that the sign conforms to MUTCD visibility and height requirements. The lower edge of the sign should typically be at least 7 ft (2.1 m) above the ground surface in pedestrian areas, or as required by local code.
 
+
+
 **Step 3: Measure Operational Clearance**
 
 * With the arm extended to its full working position, measure the horizontal and vertical clearances around the structure.
@@ -100,6 +110,8 @@ Before finalizing trailer placement or beginning system operation, verify that a
 * Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.
 
 * If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.
+
+
 
 **Step 4: Lock and Secure**
 
@@ -156,7 +168,9 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
 
-**Step 1: Determine Panel Direction
+
+
+**Step 1: Determine Panel Direction**
 
 * For installations north of the Equator, the solar panel should face **south** for optimal efficiency.
 
@@ -165,6 +179,8 @@ For proper operation, the solar panel must receive direct sunlight from **10:00 
 * Two locations with **1/4"-20** threaded stud patterns are provided for mounting the solar panel and light assemblies.
 
 * The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  
+
+
 
 **Step 1: Measure Tilt Angle**
 
@@ -176,6 +192,8 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 !!! example
     Latitude = 38.2° → Tilt angle = **38.2°**
+
+
 
 **Step 2: Seasonal adjustments:**
 
@@ -211,6 +229,7 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 * Confirm travel range. Each jack must have sufficient travel to raise the trailer until the wheels are just off the ground. This ensures all load weight is transferred to the jacks for accurate leveling.
 
 
+
 **Step 2: Leveling Procedure**
 
 * Park the trailer in the desired position and set the wheel chocks to prevent rolling.
@@ -223,6 +242,8 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 * Then lower the front jacks, adjusting each incrementally.
 
+
+
 **Step 3: Adjust to Level**
 
 * Place a bubble or digital level on the trailer frame or deck.
@@ -230,6 +251,8 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 * Adjust opposing jacks (A–C and B–D, see Figure 4-1) in small increments until the trailer is level front-to-back and side-to-side.
 
 * Continue fine adjustments until the trailer frame is fully level and stable, and all four jacks share the load evenly.
+
+
 
 **Step 4: Verify Clearance and Levelness**
 
@@ -249,25 +272,36 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 !!! warning "Weather"
     Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.
 
-Refer to WCH Manual
-- Arm setup
-- Bell setup
-- Counterweight setup
-
-- Extending the arm
-- Raising the crossbuck
-- Adding counterweights
-
-
-
 ### Arm Setup
 
-- 8'-16': use the smaller metal piece  
-- 9'-22': use the larger metal piece + a middle piece  
+Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
+
+**8'-16':** use the smaller metal section + option smaller middle section + end section
+
+**16'-22':** use the larger metal section + option larger middle section + end section
 
 * Refer to WCH manual for counterweight setup
 
 * Do not remove counterweight blocker
+
+
+
+### Bell setup
+
+
+### Counterweight setup
+
+!!! warning "Counterweight Blocker Plate"
+    Do not remove the pre-installed counterweight blocker plate when installing the counterweights.
+    Doing so may result in damage to equipment from improperly placed counterweights.
+
+* Using a fish scale, weigh the arm in its final installed configuration.
+
+* Refer to the counterweight tables in the W.C. Hayes 3590 Series OEM manual.
+
+
+
+### Raising the crossbuck
 
 
 
@@ -283,7 +317,7 @@ Refer to WCH Manual
 
 ### Connecting the Lights
 
-Emergency disconnect is under hatch on battery box
+Emergency disconnect is under hatch on battery box.
 
 
 
