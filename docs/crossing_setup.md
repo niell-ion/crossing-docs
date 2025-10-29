@@ -70,7 +70,9 @@ Site preparation must be completed before installing the derail system.
 * Use the crank to lower the crossbuck and antennas
 
 **Step 4: Stow Arm Counterweights**
+
 * Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
+
 * Remove the counterweights one at a time. Stow on the trailer deck using the provided mounting studs, finishing with the counterweight nuts to keep them in place during transit.
 
 
