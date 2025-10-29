@@ -1,4 +1,4 @@
-## Safety
+  ## Safety
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
@@ -70,7 +70,44 @@ Site preparation must be completed before installing the derail system.
 
 ### Check Levelness
 
-- Levelness/flatness
+**Step 1: Inspect the Ground Surface**
+
+* Choose a compact, load-bearing surface such as concrete, asphalt, or well-compacted gravel.
+
+* Avoid locations with loose soil, soft clay, grass, or sand, as these may settle unevenly under the trailer’s weight.
+
+* Ensure there are no depressions, mounds, or large stones beneath the jack points. These can cause twisting of the frame or difficulty in leveling.
+
+
+
+** Step 2: Assess Surface Drainage**
+
+* Select an area with good runoff so water will not pool under or around the trailer.
+
+* Avoid low-lying areas that retain moisture, which can lead to corrosion or instability of the jacks.
+
+
+
+**Step 3: Check for Slope and Elevation**
+
+* Use a 2–4 ft bubble level, laser level, or straightedge and ruler to check the surface in both directions.
+
+* The surface should not vary by more than **½ inch** over the length of the trailer **(12 ft)** or ¼ inch across the width **(8 ft)**.
+
+* If the variation exceeds these limits, adjust by relocating the trailer or using leveling pads under the jacks.
+
+
+
+**Step 4: Prepare the Contact Area**
+
+* Clear debris, gravel clusters, or vegetation from under each jack location.
+
+* If the surface is uneven, place solid wooden or composite blocks beneath the jacks to distribute load evenly.
+
+* Never use rocks, bricks, or cinder blocks, as they may fracture under pressure.
+
+!!! Caution "Levelness"
+Operating the trailer on an uneven or unstable surface can result in frame misalignment, inaccurate leveling, or equipment damage.
 
 
 
