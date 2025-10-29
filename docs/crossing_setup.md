@@ -58,12 +58,16 @@ Site preparation must be completed before installing the derail system.
     Failure to secure all components before moving or towing the trailer may result in injury and/or damage to equipment.
 
 **Step 1: Dissasemble and Secure the Arm**  
+* Remove arm sections one at a time. Stow sections in holder and secure with included clamp.
 
 **Step 2: Secure the Lights**
 
 **Step 3: Lower the Sign**
+* Fold the crossbuck 
 
 **Step 4: Stow Arm Counterweights**
+* Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
+* Remove the counterweights one at a time. Stow on the trailer deck using the provided mounting studs, finishing with the counterweight nuts to keep them in place during transit.
 
 
 
