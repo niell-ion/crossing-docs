@@ -1,4 +1,4 @@
-  ## Safety
+## Safety
 
 !!! warning "Disclaimer"
     Always ensure you have the correct tools and training before beginning installation.  
