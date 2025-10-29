@@ -53,6 +53,7 @@ Site preparation must be completed before installing the derail system.
     The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
     
 ### Securing Components
+
    - Arm  
    - Lights  
    - Sign
@@ -149,22 +150,56 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 
 
-### Trailer Jacks
+### Leveling the Trailer
 
-The trailer has leveling jacks located at each of the four corners.
+The trailer is equipped with four corner-mounted leveling jacks, one at each corner of the frame. These jacks are used to stabilize and level the trailer after it has been positioned at the installation site.
 
 !!! warning "Jack Warning"
-    Do not use the fifth wheel jack to support or level the trailer
-    
-- Must have enough travel to lift tires off the ground
-- Firm enough ground
-- Concrete paver/footer
-- Check arm height, must be MUTCD regulation compliant
-- Trailer is level, wheels are off the ground
-- Relative distance calculation
-- Only use corner jacks
+    Do not use the fifth-wheel jack (tongue jack) to support or level the trailer.
+    The fifth-wheel jack is intended only for hitching and towing. Using it for leveling may cause frame distortion or unsafe loading.
 
-- Leveling the trailer jacks
+
+
+**Step 1: Preparing to Level**
+
+* Inspect the ground. Verify that the surface beneath each jack is firm, flat, and load-bearing. If the site is gravel or soil, place a concrete paver, composite pad, or steel plate beneath each jack foot to prevent sinking or shifting.
+
+* Check jack condition. Ensure each jack is free of rust, bends, or mechanical damage. Confirm that all mounting bolts are tight and that the jack threads or screw mechanisms move smoothly.
+
+* Confirm travel range. Each jack must have sufficient travel to raise the trailer until the wheels are just off the ground. This ensures all load weight is transferred to the jacks for accurate leveling.
+
+
+**Step 2: Leveling Procedure**
+
+- Initial setup.
+
+- Park the trailer in the desired position and set the wheel chocks to prevent rolling.
+
+- Disconnect the trailer from the towing vehicle if necessary.
+
+* Lower the corner jacks.
+
+* Start with the rear jacks to stabilize the frame.
+
+* Lower each jack until it makes firm contact with the ground or paver.
+
+* Then lower the front jacks, adjusting each incrementally.
+
+**Step 3: Adjust to Level**
+
+* Place a bubble or digital level on the trailer frame or deck.
+
+* Adjust opposing jacks (A–C and B–D, see Figure 4-1) in small increments until the trailer is level front-to-back and side-to-side.
+
+* Continue fine adjustments until the trailer frame is fully level and stable, and all four jacks share the load evenly.
+
+**Step 4: Verify Clearance and Levelness**
+
+* Ensure the wheels are off the ground and the jack arms are extended within safe limits.
+
+* Check that any mounted components (such as armatures or signage) meet MUTCD height requirements or local clearance regulations.
+
+* The trailer must remain stationary and rigid when moderate force is applied to any corner.
 
 
 
