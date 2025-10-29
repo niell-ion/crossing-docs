@@ -92,7 +92,7 @@ Site preparation must be completed before installing the derail system.
 
 * Use a 2–4 ft bubble level, laser level, or straightedge and ruler to check the surface in both directions.
 
-* The surface should not vary by more than **½ inch** over the length of the trailer **(12 ft)** or ¼ inch across the width **(8 ft)**.
+* The surface should not vary by more than **½ inch** over the length of the trailer (12 ft) or **¼ inch** across the width (8 ft).
 
 * If the variation exceeds these limits, adjust by relocating the trailer or using leveling pads under the jacks.
 
