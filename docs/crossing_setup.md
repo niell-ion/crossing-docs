@@ -69,34 +69,34 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 **Step 1: Verify Arm Orientation**
 
-Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame (refer to Figure 4-3).
+* Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame (refer to Figure 4-3).
 
-The pivot or hinge side should align with the mounting reference point specified in the assembly drawing.
+* The pivot or hinge side should align with the mounting reference point specified in the assembly drawing.
 
-Ensure there are no obstructions above or beside the arm that could interfere with its full range of motion.
+* Ensure there are no obstructions above or beside the arm that could interfere with its full range of motion.
 
 **Step 2: Check Sign Orientation**
 
-The sign face should be perpendicular to the direction of approaching traffic or as required by the installation plan.
+* The sign face should be perpendicular to the direction of approaching traffic or as required by the installation plan.
 
-Verify that the top and bottom edges are parallel to the trailer deck once the trailer is fully leveled.
+* Verify that the top and bottom edges are parallel to the trailer deck once the trailer is fully leveled.
 
-If applicable, confirm that the sign conforms to MUTCD visibility and height requirements. The lower edge of the sign should typically be at least 7 ft (2.1 m) above the ground surface in pedestrian areas, or as required by local code.
+* If applicable, confirm that the sign conforms to MUTCD visibility and height requirements. The lower edge of the sign should typically be at least 7 ft (2.1 m) above the ground surface in pedestrian areas, or as required by local code.
 
 **Step 3: Measure Operational Clearance**
 
-With the arm extended to its full working position, measure the horizontal and vertical clearances around the structure.
+* With the arm extended to its full working position, measure the horizontal and vertical clearances around the structure.
 
-Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.
+* Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.
 
-If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.
+* If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.
 Orientation of arm and sign
 
 **Step 4: Lock and Secure**
 
-After verifying clearances, tighten all pivot bolts, clamps, or lock pins to manufacturer specifications.
+* After verifying clearances, tighten all pivot bolts, clamps, or lock pins to manufacturer specifications.
 
-Confirm that no cables or hoses are under tension or pinched during movement of the arm or sign.
+* Confirm that no cables or hoses are under tension or pinched during movement of the arm or sign.
 
 
 
