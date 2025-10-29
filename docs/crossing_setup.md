@@ -274,6 +274,8 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 !!! warning "Weather"
     Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.
 
+
+
 ### Arm Setup
 
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
@@ -293,7 +295,10 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ### Counterweight setup
 
-!!! warning "Counterweight Blocker Plate"
+!!! warning "Counterweight Warning"
+    Do not apply counterweight before the roadway gate arm is installed
+
+!!! caution "Counterweight Blocker Plate"
     Do not remove the pre-installed counterweight blocker plate when installing the counterweights.
     Doing so may result in damage to equipment from improperly placed counterweights.
 
