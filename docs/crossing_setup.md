@@ -80,7 +80,7 @@ Site preparation must be completed before installing the derail system.
 
 
 
-** Step 2: Assess Surface Drainage**
+**Step 2: Assess Surface Drainage**
 
 * Select an area with good runoff so water will not pool under or around the trailer.
 
