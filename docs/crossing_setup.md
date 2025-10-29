@@ -227,8 +227,9 @@ Refer to WCH Manual
 - 8'-16': use the smaller metal piece  
 - 9'-22': use the larger metal piece + a middle piece  
 
-Refer to WCH manual for counterweight setup
-Do not remove counterweight blocker
+* Refer to WCH manual for counterweight setup
+
+* Do not remove counterweight blocker
 
 
 
