@@ -1,32 +1,52 @@
 ## Trailer Assembly
 
-- Trailer jacks
-- Battery enclosure
-- Controller enclosure
-- Arm mounts
-- Solar panel mounts
-- Counterweight holder
-- Remote enclosure
+* Trailer Jacks
+
+* Battery Enclosure
+
+* Controller Enclosure
+
+* Arm Holder
+
+* Solar Panel Receivers
+
+* Counterweight Holder
+
+* Remote Enclosure
 
 
 
 ## Gate Assembly
 
-- Actuator
-- Lights
-- Crossbuck
-- Bell
+* Actuator
+
+* Roadway Warning Lights
+
+* Crossbuck
+
+* Bell
+
+* Antenna Array
+
+* Camera
 
 
 
 ## Arm Assembly
 
-- Long metal section
-- Short metal section
-- Middle section
-- End section
-- Counterweight plates
-- Lights
+* Long Aluminum Section
+
+* Short Metal Section
+
+* Middle Section
+
+* Long End Section
+
+* Short End Section
+
+* Counterweight Plates
+
+* Arm Lights
 
 
 
