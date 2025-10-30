@@ -139,7 +139,7 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 * Select an area with good runoff so water will not pool under or around the trailer.
 
-* Avoid low-lying areas that retain moisture, which can lead to corrosion or instability of the jacks.
+* Avoid low-lying areas that retain moisture, which can cause the trailer to sink into the ground.
 
 
 
