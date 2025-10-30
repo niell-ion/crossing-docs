@@ -45,6 +45,8 @@ Site preparation must be completed before installing the derail system.
 
 * Level (Bubble or Digital)
 
+* Digital Hanging Scale (Must be Rated for 300+ Lbs.)
+
 
 
 ## Towing Procedure
