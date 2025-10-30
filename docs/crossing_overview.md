@@ -52,7 +52,7 @@
 
 ## Remote
 
-- Remote controller
-- Charging cradle
+* Wireless Remote
 
+* Charging Cradle
 
