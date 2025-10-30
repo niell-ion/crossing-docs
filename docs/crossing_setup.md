@@ -139,11 +139,14 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 * Select an area with good runoff so water will not pool under or around the trailer.
 
-* Avoid low-lying areas that retain moisture, which can cause the trailer to sink into the ground.
+* Avoid low-lying areas that retain moisture, which can cause the trailer to settle into the ground.
 
 
 
 **Step 3: Check for Slope and Elevation**
+
+!!! Caution "Levelness"
+    Operating the trailer on an uneven or unstable surface can result in frame misalignment, inaccurate leveling, or equipment damage.
 
 * Use a 2–4 ft bubble level, laser level, or straightedge and ruler to check the surface in both directions.
 
@@ -161,14 +164,14 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 * Never use rocks, bricks, or cinder blocks, as they may fracture under pressure.
 
-!!! Caution "Levelness"
-    Operating the trailer on an uneven or unstable surface can result in frame misalignment, inaccurate leveling, or equipment damage.
-
 
 
 ### Determine Solar Angle
 
-For proper operation, the solar panel must receive direct sunlight from **10:00 AM** to **3:00 PM** without obstruction from structures, railcars, or vegetation.  
+For optimal charging performance, the solar panel must receive unobstructed, direct sunlight between **10:00 AM and 3:00 PM**.
+Ensure there is no shading from nearby structures, railcars, vegetation, or other equipment during these hours.
+
+If the site receives limited sunlight or experiences partial shading, a second solar panel may be installed to maintain adequate system charging capacity.
 
 
 
@@ -280,17 +283,20 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
-**8'-16':** use the smaller metal section + option smaller middle section + end section
+**8'-16':** use the smaller metal section + option smaller middle section + end section.
 
-**16'-22':** use the larger metal section + option larger middle section + end section
+**16'-22':** use the larger metal section + option larger middle section + end section.
 
-* Refer to WCH manual for counterweight setup
+* Refer to WCH manual for counterweight setup.
 
-* Do not remove counterweight blocker
+* Do not remove the counterweight backstop.
 
 
 
 ### Bell setup
+
+* Refer to WCH manual for bell setup.
+
 
 
 ### Counterweight setup
