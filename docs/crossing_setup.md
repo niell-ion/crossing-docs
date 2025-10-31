@@ -295,13 +295,13 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 
 
-### Bell setup
+### Bell Setup
 
 * Refer to WCH manual for bell setup.
 
+### Roadway Lights Setup
 
-
-### Counterweight setup
+### Counterweight Setup
 
 !!! warning "Counterweight Warning"
     Do not apply counterweight before the roadway gate arm is installed
@@ -316,7 +316,13 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 
 
-### Raising the crossbuck
+### Raising the Crossbuck and Antennas
+
+* Pull the handle to raise the crossbuck and antenna array to 90 degrees.
+
+* Hook the handle to the retaining cable.
+
+* Tighten the turnbuckle to secure the mechanism.
 
 
 
