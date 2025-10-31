@@ -1,8 +1,12 @@
 ## Maintenance Schedule
 
+
+
 ### Every 6 Months
 
 * Clean solar panels.
+
+
 
 ### Every 12 Months
 
@@ -17,13 +21,15 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 ### Required Materials
 
-Light machine oil or multi-purpose lithium grease
+* Light machine oil or multi-purpose lithium grease
 
-Clean rags or disposable shop towels
+* Clean rags or disposable shop towels
 
-Small brush or aerosol applicator with extension nozzle
+* Small brush or aerosol applicator with extension nozzle
 
-Protective gloves and eyewear
+* Protective gloves and eyewear
+
+
 
 ### Lubrication Procedure
 
@@ -37,35 +43,37 @@ Protective gloves and eyewear
 
 **Step 2: Extend the Jacks**
 
-Use the crank handle or power drive to extend each jack halfway.
+* Use the crank handle or power drive to extend each jack halfway.
 
-This exposes the main screw threads and inner guides for cleaning and lubrication.
+* This exposes the main screw threads and inner guides for cleaning and lubrication.
 
 **Step 3: Clean the Mechanisms**
 
-Remove any old grease, dust, or grit using a clean rag.
+* Remove any old grease, dust, or grit using a clean rag.
 
-For stubborn buildup, use a mild solvent (such as mineral spirits) and allow all parts to dry completely.
+* For stubborn buildup, use a mild solvent (such as mineral spirits) and allow all parts to dry completely.
 
 **Step 4: Apply Lubricant**
 
-Using a brush or nozzle, apply a thin, even coat of lithium grease to the screw threads, pivot pins, and moving joints.
+* Using a brush or nozzle, apply a thin, even coat of lithium grease to the screw threads, pivot pins, and moving joints.
 
-For enclosed gear housings, apply a few drops of light oil through the lubrication port (if equipped).
+* For enclosed gear housings, apply a few drops of light oil through the lubrication port (if equipped).
 
-Operate the jack through its full travel range twice to distribute lubricant evenly.
+* Operate the jack through its full travel range twice to distribute lubricant evenly.
 
 **Step 5: Wipe and Retract**
 
-Wipe away excess grease or oil to prevent dirt accumulation.
+* Wipe away excess grease or oil to prevent dirt accumulation.
 
-Fully retract the jacks and confirm smooth operation without binding or noise.
+* Fully retract the jacks and confirm smooth operation without binding or noise.
 
 **Step 6: Repeat for all Corners**
 
-Perform the same cleaning and lubrication process for each of the four jacks.
+* Perform the same cleaning and lubrication process for each of the four jacks.
 
-Check for uniform movement and equal resistance among all jacks.
+* Check for uniform movement and equal resistance among all jacks.
+
+
 
 ## Battery Maintenance
 
@@ -94,33 +102,33 @@ Check for uniform movement and equal resistance among all jacks.
 
 **Step 1: Inspect the Battery Bank**
 
-Check all terminals, interconnect cables, and fuses for corrosion or looseness.
+* Check all terminals, interconnect cables, and fuses for corrosion or looseness.
 
-Clean terminals using a non-metallic brush and verify tight mechanical connections.
+* Clean terminals using a non-metallic brush and verify tight mechanical connections.
 
 **Step 2: Select an Appropriate Charger**
 
-Use a smart charger rated for 24 V AGM batteries with automatic bulk, absorption, and float modes.
+* Use a smart charger rated for 24 V AGM batteries with automatic bulk, absorption, and float modes.
 
-Charging profile should reach 28.8–29.4 V during the absorption phase and hold 26.4–27.0 V during float mode.
+* Charging profile should reach 28.8–29.4 V during the absorption phase and hold 26.4–27.0 V during float mode.
 
-Avoid unregulated or “boost” chargers, which can cause overcharging and thermal damage.
+* Avoid unregulated or “boost” chargers, which can cause overcharging and thermal damage.
 
 **Step 3: Connect the Charger**
 
-Attach the positive (red) lead to the battery bank’s positive (+) terminal and the negative (black) lead to the negative (–) terminal.
+* Attach the positive (red) lead to the battery bank’s positive (+) terminal and the negative (black) lead to the negative (–) terminal.
 
-Confirm correct polarity and tight contact before turning on the charger.
+* Confirm correct polarity and tight contact before turning on the charger.
 
 **Step 4: Monitor Charging Progress**
 
-Allow charging to continue until the battery reaches 100 % state of charge, as indicated by charger status or stabilized current.
+* Allow charging to continue until the battery reaches 100 % state of charge, as indicated by charger status or stabilized current.
 
-When charging completes, verify voltage has settled to approximately 26.0–26.4 V after one hour at rest.
+* When charging completes, verify voltage has settled to approximately 26.0–26.4 V after one hour at rest.
 
 **Step 5: Disconnect and Record**
 
-Turn off the charger, disconnect leads in reverse order, and note the recharge date, final voltage, and any observations in the maintenance log.
+* Turn off the charger, disconnect leads in reverse order, and note the recharge date, final voltage, and any observations in the maintenance log.
 
 
 
