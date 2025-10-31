@@ -322,11 +322,17 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ## Electrical
 
+### Addressing the Crossing
+
+Binary DIP switches
+
 ### Connecting the Solar Panel
 
-- Connect solar jack on battery to solar plug attached to panel.
-- If the installation requires two solar panels, use the provided Y-splitter to connect both panels to the battery input.
-- Ensure all connections are secure and fully seated.
+* Connect solar jack on battery to solar plug attached to panel.
+
+* If using two panels, use the provided Y-splitter to connect both panels to the battery input.
+
+* Ensure all connections are secure and fully seated.
 
 
 
