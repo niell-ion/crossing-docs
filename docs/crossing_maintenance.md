@@ -1,4 +1,4 @@
-## Maitenance Schedule
+## Maintenance Schedule
 
 ### Every 6 Months
 
