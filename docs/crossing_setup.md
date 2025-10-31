@@ -297,9 +297,12 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ### Bell Setup
 
+!!! caution "Bell Orientation" 
+    The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
+
 * Refer to WCH manual for bell setup.
 
-### Roadway Lights Setup
+
 
 ### Counterweight Setup
 
@@ -313,6 +316,13 @@ Multiple arm sections are provided for installations requiring specific arm leng
 * Using a fish scale, weigh the arm in its final installed configuration.
 
 * Refer to the counterweight tables in the W.C. Hayes 3590 Series OEM manual.
+
+
+
+### Roadway Lights Setup
+
+!!! caution "Roadway Lights Orientation" 
+    The direction of the roadway lights are set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
 
 
 
