@@ -8,7 +8,7 @@
 | **Monthly**                    | Solar System            | Check output and sunlight exposure          | Multimeter; cloth; ladder (if needed)        | Clean panels; confirm clear sunlight 10 AM–3 PM  |
 | **Every 60–90 Days (Storage)** | Battery Bank (24 V AGM) | Recharge and inspect terminals              | Smart 24 V charger; voltmeter; brush; gloves | Maintain 25.6–26.4 V; avoid overcharging         |
 | **Every 6 Months**             | Leveling Jacks          | Clean and lubricate screw shafts and pivots | Lithium grease; rags; brush; gloves          | Prevents corrosion and binding                   |
-| **Every 6 Months**             | Tongue Jack             | Inspect and lubricate                       | Lithium grease; rags                         | Check for smooth movement                        |
+| **Before Each Tow**            | Tongue Jack             | Inspect and lubricate                       | Lithium grease; rags                         | Check for smooth movement                        |
 | **Every 6 Months**             | Fasteners & Hardware    | Inspect and retighten                       | Socket set; torque wrench                    | Replace any rusted hardware                      |
 
 
