@@ -81,7 +81,7 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 * Recharge Schedule
 
-### Active Systems (with solar input):
+### Active Systems (with Solar Input)
 
 * When solar panels are connected and operational, the charge controller will maintain the 24 V battery bank automatically.
 
@@ -89,7 +89,7 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 * If voltage drops below 24.4 V, perform a full recharge using an approved external charger.
 
-### Inactive or Stored Systems:
+### Inactive or Stored Systems
 * If the trailer is stored indoors or disconnected from solar power:
 
 * Recharge every 60–90 days using a compatible 24 V AGM charger or a dual 12 V charger configured for series connection.
