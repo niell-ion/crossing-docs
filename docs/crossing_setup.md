@@ -319,6 +319,20 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 
 
+### Solar Panel Setup
+
+* Remove the banding straps holding the solar panel in place.
+
+* Loosen the solar panel pipe receiver bolts and rotate the panel to the desired direction.
+
+* Tighten the pipe reciever bolts.
+
+* Loosen the U-bolts and rotate the panel to the desired inclination.
+
+* Tighten the u-bolts.
+
+
+
 ### Roadway Lights Setup
 
 !!! caution "Roadway Lights Orientation" 
