@@ -2,6 +2,8 @@
 
 
 
+To ensure safe operation and performance of the device, regular maintenance should be completed according to the following table. Detailed maintenance procedures are outline further in this section.
+
 | **Interval**                   | **System**              | **Task**                                    | **Tools / Materials**                        | **Notes**                                        |
 | ------------------------------ | ----------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------------------ |
 | **Before Each Tow**            | Tires                   | Check tire pressure and condition           | Tire pressure gauge; air compressor          | Inflate to rated PSI; inspect for cracks or wear |
