@@ -13,6 +13,59 @@
 
 ## Jack Maintenance
 
+To ensure smooth operation and prevent corrosion, the trailer’s corner leveling jacks should be lubricated every six (6) months or after exposure to rain, road salt, or dusty environments. Regular lubrication extends jack service life and reduces wear on mechanical threads and pivot points.
+
+### Required Materials
+
+Light machine oil or multi-purpose lithium grease
+
+Clean rags or disposable shop towels
+
+Small brush or aerosol applicator with extension nozzle
+
+Protective gloves and eyewear
+
+### Lubrication Procedure
+
+**Step 1: Inspect the Jacks**
+
+* Ensure the trailer is parked on a level surface and the jacks are fully retracted.
+
+* Visually inspect each jack for dirt, rust, or accumulated debris.
+
+* Wipe the exposed screw shafts, pivots, and housings clean with a rag.
+
+**Step 2: Extend the Jacks**
+
+Use the crank handle or power drive to extend each jack halfway.
+
+This exposes the main screw threads and inner guides for cleaning and lubrication.
+
+**Step 3: Clean the Mechanisms**
+
+Remove any old grease, dust, or grit using a clean rag.
+
+For stubborn buildup, use a mild solvent (such as mineral spirits) and allow all parts to dry completely.
+
+**Step 4: Apply Lubricant**
+
+Using a brush or nozzle, apply a thin, even coat of lithium grease to the screw threads, pivot pins, and moving joints.
+
+For enclosed gear housings, apply a few drops of light oil through the lubrication port (if equipped).
+
+Operate the jack through its full travel range twice to distribute lubricant evenly.
+
+**Step 5: Wipe and Retract**
+
+Wipe away excess grease or oil to prevent dirt accumulation.
+
+Fully retract the jacks and confirm smooth operation without binding or noise.
+
+**Step 6: Repeat for all Corners**
+
+Perform the same cleaning and lubrication process for each of the four jacks.
+
+Check for uniform movement and equal resistance among all jacks.
 
 ## Battery Maintenance
 
@@ -20,7 +73,7 @@
 
 * Recharge Schedule
 
-# Active Systems (with solar input):
+### Active Systems (with solar input):
 
 * When solar panels are connected and operational, the charge controller will maintain the 24 V battery bank automatically.
 
