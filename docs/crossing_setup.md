@@ -53,6 +53,8 @@ Site preparation must be completed before installing the derail system.
 
 !!! caution "Towing Advisory"
     The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
+
+
     
 ### Securing Components
 
