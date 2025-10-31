@@ -274,7 +274,7 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 ## Setup
 
 !!! warning "Levelness"
-    Trailer leveling must be complete before proceeding with setup
+    Trailer leveling must be complete before proceeding with setup.
     
 !!! warning "Weather"
     Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.
