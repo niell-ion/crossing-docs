@@ -20,6 +20,8 @@ To ensure safe operation and performance of the device, regular maintenance shou
 
 To ensure smooth operation and prevent corrosion, the trailer’s corner leveling jacks should be lubricated every six (6) months or after exposure to rain, road salt, or dusty environments. Regular lubrication extends jack service life and reduces wear on mechanical threads and pivot points.
 
+
+
 ### Required Materials
 
 * Light machine oil or multi-purpose lithium grease
@@ -78,9 +80,9 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 ## Battery Maintenance
 
-* Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capacity and ensure reliable system performance. Even when the trailer is not in active use, the batteries should be recharged on a regular schedule to prevent sulfation and capacity loss.
+Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capacity and ensure reliable system performance. Even when the trailer is not in active use, the batteries should be recharged on a regular schedule to prevent sulfation and capacity loss.
 
-* Recharge Schedule
+
 
 ### Active Systems (with Solar Input)
 
@@ -90,7 +92,10 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 * If voltage drops below 24.4 V, perform a full recharge using an approved external charger.
 
+
+
 ### Inactive or Stored Systems
+
 * If the trailer is stored indoors or disconnected from solar power:
 
 * Recharge every 60–90 days using a compatible 24 V AGM charger or a dual 12 V charger configured for series connection.
