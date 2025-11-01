@@ -138,6 +138,29 @@ Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capa
 
 
 
+## Before Storage
+
+### Disconnect Solar from Battery
+
+!!! warning 
+    Keep clear of crossing arm travel path when disconnecting the battery. The crossing arm will come down immediately when powered off.
+
+The solar panel must be disconnected when not actively in use charging the battery.
+
+**Step 1: Open Disconnect Cover**
+
+* Locate and open the quick disconnect hatch on the top of the battery box.
+
+* Ensure all personnel, equipment, and crossing components are clear of the arm travel path.
+
+* Flip the lever to disconnect the solar panel from the battery.
+
+* If raised, the crossing arm will fall to its down position.
+
+* Close and latch disconnect cover.
+
+
+
 ## Before Towing
 
 * Check leveling and tounge jack lubrication.
