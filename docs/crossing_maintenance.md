@@ -138,7 +138,7 @@ Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capa
 
 
 
-## Before Storage
+## Before Storage or Transport
 
 ### Disconnect Solar from Battery
 
@@ -151,15 +151,52 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 * Locate and open the quick disconnect hatch on the top of the battery box.
 
-* Ensure all personnel, equipment, and crossing components are clear of the arm travel path.
+**Step 2: Disconnect Solar Panel**
+
+* Verify all personnel, equipment, and crossing components are clear of the arm travel path.
 
 * Flip the lever to disconnect the solar panel from the battery.
 
 * If raised, the crossing arm will fall to its down position.
 
+**Step 3: Close Cover**
+
 * Close and latch disconnect cover.
 
+### Secure the CrossingArm
 
+**Step 1: Disassemble the Crossing Arm**
+
+* Verify that the arm is in the **down** position.
+
+* Remove the crossing arm sections in reverse installation order.
+
+**Step 2: Stow the Crossing Arm**
+
+* Locate the crossing arm holder on the deck of the trailer.
+
+* Insert the arm sections into the holder and secure with provided rubber tie straps.
+
+* Stow the shortest fiberglass extension section inside the short metal section, to prevent it coming loose during transport.
+
+**Step 2: Remove and Stow the Counterweights**
+
+* Remove the nuts securing the counterweights.
+
+!!! warning "Counterweight Blocker Plate
+    Do not remove the counterweight blocker plate when removing the counterweights. Doing so may result in damage to equipment from improperly placed counterweights.
+
+* Remove the counterweight plates in reverse installation order.
+
+* Locate the counterweight holder on the deck of the trailer.
+
+* Stow the counterweights and secure with the counterweight nuts.
+
+
+
+### Secure the Solar Panel
+
+**Cle
 
 ## Before Towing
 
