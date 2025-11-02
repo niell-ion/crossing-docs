@@ -1,8 +1,8 @@
 ## Maintenance Schedule
 
-
-
 To ensure safe operation and performance of the device, regular maintenance should be completed according to the following table. Detailed maintenance procedures are outline further in this section.
+
+
 
 | **Interval**                   | **System**              | **Task**                                    | **Tools / Materials**                        | **Notes**                                        |
 | ------------------------------ | ----------------------- | ------------------------------------------- | -------------------------------------------- | ------------------------------------------------ |
@@ -44,17 +44,23 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 * Wipe the exposed screw shafts, pivots, and housings clean with a rag.
 
+
+
 **Step 2: Extend the Jacks**
 
 * Use the crank handle or power drive to extend each jack halfway.
 
 * This exposes the main screw threads and inner guides for cleaning and lubrication.
 
+
+
 **Step 3: Clean the Mechanisms**
 
 * Remove any old grease, dust, or grit using a clean rag.
 
 * For stubborn buildup, use a mild solvent (such as mineral spirits) and allow all parts to dry completely.
+
+
 
 **Step 4: Apply Lubricant**
 
@@ -64,11 +70,15 @@ To ensure smooth operation and prevent corrosion, the trailer’s corner levelin
 
 * Operate the jack through its full travel range twice to distribute lubricant evenly.
 
+
+
 **Step 5: Wipe and Retract**
 
 * Wipe away excess grease or oil to prevent dirt accumulation.
 
 * Fully retract the jacks and confirm smooth operation without binding or noise.
+
+
 
 **Step 6: Repeat for all Corners**
 
@@ -112,6 +122,8 @@ Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capa
 
 * Clean terminals using a non-metallic brush and verify tight mechanical connections.
 
+
+
 **Step 2: Select an Appropriate Charger**
 
 * Use a smart charger rated for 24 V AGM batteries with automatic bulk, absorption, and float modes.
@@ -120,17 +132,23 @@ Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capa
 
 * Avoid unregulated or “boost” chargers, which can cause overcharging and thermal damage.
 
+
+
 **Step 3: Connect the Charger**
 
 * Attach the positive (red) lead to the battery bank’s positive (+) terminal and the negative (black) lead to the negative (–) terminal.
 
 * Confirm correct polarity and tight contact before turning on the charger.
 
+
+
 **Step 4: Monitor Charging Progress**
 
 * Allow charging to continue until the battery reaches 100 % state of charge, as indicated by charger status or stabilized current.
 
 * When charging completes, verify voltage has settled to approximately 26.0–26.4 V after one hour at rest.
+
+
 
 **Step 5: Disconnect and Record**
 
@@ -163,13 +181,27 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 * Close and latch disconnect cover.
 
-### Secure the CrossingArm
+
+
+### Secure the Crossing Arm
+
+**Step 1: Remove the Lights**
+
+* Disconnect the lights from the controller.
+
+* Unscrew the self-tapping screws fastening the lights to the arm.
+
+* Stow the lights in the accessory box.
+
+
 
 **Step 1: Disassemble the Crossing Arm**
 
 * Verify that the arm is in the **down** position.
 
 * Remove the crossing arm sections in reverse installation order.
+
+
 
 **Step 2: Stow the Crossing Arm**
 
@@ -179,7 +211,9 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 * Stow the shortest fiberglass extension section inside the short metal section, to prevent it coming loose during transport.
 
-**Step 2: Remove and Stow the Counterweights**
+
+
+**Step 3: Remove and Stow the Counterweights**
 
 * Remove the nuts securing the counterweights.
 
@@ -196,7 +230,11 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 ### Secure the Solar Panel
 
-**Cle
+* Rotate solar panel to shipping position.
+
+* Secure the solar panel using banding straps.
+
+
 
 ## Before Towing
 
