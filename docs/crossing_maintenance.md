@@ -228,6 +228,12 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 
 
+**Step 4: Secure the Arm**
+
+* Use banding straps around the actuator mechanism to prevent the arm from moving.
+
+* Wrap actuator and arm with shrink-wrap for protection during transport and storage.
+
 ### Secure the Solar Panel
 
 * Rotate solar panel to shipping position.
