@@ -75,7 +75,7 @@ Site preparation must be completed before installing the derail system.
 
 **Step 4: Stow Arm Counterweights**
 
-* Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
+* E++nsuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
 
 * Remove the counterweights one at a time. Stow on the trailer deck using the provided mounting studs, finishing with the counterweight nuts to keep them in place during transit.
 
@@ -285,11 +285,14 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 ### Arm Setup
 
+!!! tip
+    Refer to the Western Cullen Hayes service and Installation manual for detailed information regarding.
+
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
-**8'-16':** use the smaller metal section + option smaller middle section + end section.
+**5'-8':** use the smaller metal section + option smaller middle section + end section.
 
-**16'-22':** use the larger metal section + option larger middle section + end section.
+**8'-22':** use the larger metal section + option larger middle section + end section.
 
 * Refer to WCH manual for counterweight setup.
 
@@ -356,7 +359,13 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ### Addressing the Crossing
 
-Binary DIP switches
+Within the controller enclosure, an array of DIP switches are visible. These switches set the address of the crossing. 
+
+* The DIP switches use binary addressing (0, 1, 10, 11...) to allow one remote to be used with multiple crossing systems.
+
+* Each crossing in an installation must use a unique address.
+
+
 
 ### Connecting the Solar Panel
 
@@ -375,6 +384,8 @@ Emergency disconnect is under hatch on battery box.
 
 
 ## Software
+
+
 
 ### Connecting the Remote
 
