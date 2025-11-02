@@ -9,7 +9,7 @@ To ensure safe operation and performance of the device, regular maintenance shou
 | **Before Each Tow**            | Tires                   | Check tire pressure and condition           | Tire pressure gauge; air compressor          | Inflate to rated PSI; inspect for cracks or wear |
 | **Before Each Tow**            | Tongue Jack             | Inspect and lubricate                       | Lithium grease; rags                         | Check for smooth movement                        |
 | **Every 60–90 Days (Storage)** | Battery Bank (24 V AGM) | Recharge and inspect terminals              | Smart 24 V charger; voltmeter; brush; gloves | Maintain 25.6–26.4 V; avoid overcharging         |
-| **Every 6 Months**             | Solar System            | Check output and sunlight exposure          | Multimeter; cloth; ladder (if needed)        | Clean panels; confirm clear sunlight 10 AM–3 PM  |
+| **Every 6 Months**             | Solar System            | Check output and sunlight exposure          | Multimeter; cloth                            | Clean panels; confirm clear sunlight 10 AM–3 PM  |
 | **Every 6 Months**             | Leveling Jacks          | Clean and lubricate screw shafts and pivots | Lithium grease; rags; brush; gloves          | Prevents corrosion and binding                   |
 | **Every 12 Months (In Use)**   | Battery Bank (24 V AGM) | Recharge and inspect terminals              | Smart 24 V charger; voltmeter; brush; gloves | Maintain 25.6–26.4 V; avoid overcharging         |
 | **Every 12-24 Months**         | Fasteners & Hardware    | Inspect and retighten                       | Socket set; torque wrench                    | Replace any rusted hardware                      |
