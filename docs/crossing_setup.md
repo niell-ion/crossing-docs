@@ -407,6 +407,8 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 Emergency disconnect is under hatch on battery box.
 
+![](assets/disconnect_diagram.jpg){: style="height:650px;width:auto"}
+
 
 
 ## Software
