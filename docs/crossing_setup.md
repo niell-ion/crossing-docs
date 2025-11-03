@@ -255,6 +255,8 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 **Step 3: Adjust to Level**
 
+![](assets/jack_down.jpg){: style="height:350px;width:auto"}
+
 * Place a bubble or digital level on the trailer frame or deck.
 
 * Adjust opposing jacks (A–C and B–D, see Figure 4-1) in small increments until the trailer is level front-to-back and side-to-side.
