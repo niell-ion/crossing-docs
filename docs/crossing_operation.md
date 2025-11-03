@@ -2,6 +2,8 @@
 
 Controls for local operation of the gate can be found on the front of the controller enclosure. Unlatch the smaller outer enclosure to reveal the control buttons.
 
+
+
 ### Lowering the Gate Arm
 
 * Ensure the gate travel path is clear.
