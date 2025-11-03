@@ -18,6 +18,10 @@ To ensure safe operation and performance of the device, regular maintenance shou
 
 ## Jack Maintenance
 
+![Crossing Gate Remote](assets/remote_diagram.png){: style="height:350px;width:auto"}
+
+
+
 To ensure smooth operation and prevent corrosion, the trailer’s corner leveling jacks should be lubricated every six (6) months or after exposure to rain, road salt, or dusty environments. Regular lubrication extends jack service life and reduces wear on mechanical threads and pivot points.
 
 
