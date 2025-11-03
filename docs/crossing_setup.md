@@ -283,10 +283,10 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 
 
-### Arm Setup
+### Crossing Arm Setup
 
 !!! tip
-    Refer to the Western Cullen Hayes service and Installation manual for detailed information regarding.
+    Refer to the Western Cullen Hayes service and Installation manual for detailed arm installation and counterweighting instructions.
 
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
@@ -294,18 +294,35 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 **8'-22':** use the larger metal section + option larger middle section + end section.
 
-* Refer to WCH manual for counterweight setup.
-
-* Do not remove the counterweight backstop.
 
 
+**Step 1: Unload the Arm Sections**
 
-### Bell Setup
+* Locate the crossing arm sections in the holders on the left and right sides of the trailer.
 
-!!! caution "Bell Orientation" 
-    The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
+* Remove the rubber tie straps securing the arm sections.
 
-* Refer to WCH manual for bell setup.
+
+
+**Step 2: Assemble the Crossing Arm**
+
+* Install the arm sections in sequential order. Use only the sections needed for the installation length.
+
+* Allow telescoping sections to overlap by at least 1'.
+
+
+
+**Step 3: Secure the Crossing Arm**
+
+* Verify that telescoping arm sections overlap at least 1'
+
+* Drill 1/2" holes through the overlapping sections, 6" away from the end of each section per the diagram.
+
+* Remove any metal or fiberglass shavings from the drill holes.
+
+* Place 1/2" bolts, washers, and nuts to secure the arm.
+
+* Tighten arm bolts firmly per Western Cullen Hayes manual, do not overtighten.
 
 
 
@@ -342,6 +359,15 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 !!! caution "Roadway Lights Orientation" 
     The direction of the roadway lights are set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
+
+
+
+### Bell Setup
+
+!!! caution "Bell Orientation" 
+    The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
+
+* Refer to Western Cullen Hayes manual for detailed bell instructions.
 
 
 
