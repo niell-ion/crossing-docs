@@ -55,7 +55,13 @@ Site preparation must be completed before installing the derail system.
     The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
 
 
-    
+
+### Maintenance
+
+* Complete all required maintenance items outlined in the section titled "Before Towing".
+
+
+
 ### Securing Components
 
 !!! warning "Secure Before Towing"
@@ -67,11 +73,17 @@ Site preparation must be completed before installing the derail system.
 
 * Remove arm sections one at a time. Stow sections in holder and secure with included clamp.
 
+
+
 **Step 2: Secure the Lights**
+
+
 
 **Step 3: Lower the Crossbuck and Antennas**
 
 * Use the crank to lower the crossbuck and antennas
+
+
 
 **Step 4: Stow Arm Counterweights**
 
