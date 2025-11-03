@@ -169,9 +169,17 @@ Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capa
 
 The solar panel must be disconnected when not actively in use charging the battery.
 
+
+
 **Step 1: Open Disconnect Cover**
 
+![Solar Disconnect](assets/disconnect_diagram.jpg){: style="height:350px;width:auto"}
+
+
+
 * Locate and open the quick disconnect hatch on the top of the battery box.
+
+
 
 **Step 2: Disconnect Solar Panel**
 
@@ -180,6 +188,8 @@ The solar panel must be disconnected when not actively in use charging the batte
 * Flip the lever to disconnect the solar panel from the battery.
 
 * If raised, the crossing arm will fall to its down position.
+
+
 
 **Step 3: Close Cover**
 
@@ -209,7 +219,7 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 **Step 2: Stow the Crossing Arm**
 
-![Crossing Gate Remote](assets/arm_holder.jpg){: style="height:350px;width:auto"}
+![Crossing Arm Stowed in Holder](assets/arm_holder.jpg){: style="height:350px;width:auto"}
 
 
 
