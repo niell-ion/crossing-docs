@@ -267,7 +267,7 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 **Step 3: Adjust to Level**
 
-![](assets/jack_down.jpg){: style="height:350px;width:auto"}
+![Leveling Jack](assets/jack_down.jpg){: style="height:350px;width:auto"}
 
 * Place a bubble or digital level on the trailer frame or deck.
 
@@ -421,7 +421,7 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 Emergency disconnect is under hatch on battery box.
 
-![](assets/disconnect_diagram.jpg){: style="height:350px;width:auto"}
+![Solar Disconnect](assets/disconnect_diagram.jpg){: style="height:350px;width:auto"}
 
 
 
