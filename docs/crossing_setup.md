@@ -332,7 +332,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Drill 1/2" holes through the overlapping sections, 6" away from the end of each section per the diagram.
 
-* Remove any metal or fiberglass shavings from the drill holes.
+* Remove any metal or fiberglass shavings from the drilled holes.
 
 * Place 1/2" bolts, washers, and nuts to secure the arm.
 
