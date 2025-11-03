@@ -36,9 +36,9 @@ This manual is organized into clearly labeled sections for quick reference:
 
 The content of this manual covers custom parts designed and produced by TXRX. Regulatory information and instructions regarding the crossing gate is available in the following supplemental documents:
 
-* Regulatory and standard information can be found in the **Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition** published by the **United States Federal Highway Administration.**
+* Regulatory and standard information can be found in Chapter 8D of the **Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition** published by the **United States Federal Highway Administration.**
 
-* Setup, operation, and troubleshooting documentation for the crossing gate actuator, arm, counterweights, bell, and lights can be found in the **Model 10 Signals Equipped With b3590 Series Gate Mechanism - Service and Installation Manual** published by the original equipment manufacturer, **Western-Cullen-Hayes, Inc.**
+* Setup, operation, and troubleshooting documentation for the crossing gate actuator, arm, counterweights, bell, and lights can be found in the **Model 10 Signals Equipped With 3590 Series Gate Mechanism - Service and Installation Manual** published by the original equipment manufacturer, **Western-Cullen-Hayes, Inc.**
 
 
 
