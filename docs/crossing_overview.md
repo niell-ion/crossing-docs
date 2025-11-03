@@ -6,13 +6,25 @@
 
 * Controller Enclosure
 
-* Arm Holder
+* Arm Holders
 
-* Solar Panel Receivers
+* Solar Panel Mount Points
 
 * Counterweight Holder
 
 * Remote Enclosure
+
+* Camera
+
+
+
+# Solar Assembly
+
+* Solar Panel Assembly (2 panels may be ordered as an option)
+
+* Solar Panel Pipe Receiver
+
+* Solar Y-Splitter (only included with 2 panel installations)
 
 
 
@@ -28,25 +40,25 @@
 
 * Antenna Array
 
-* Camera
-
 
 
 ## Arm Assembly
 
-* Long Aluminum Section
+* 6' Aluminum Arm Section
 
-* Short Metal Section
+* 6' Aluminum Arm Section
 
-* Middle Section
+* 8' Fiberglass Arm Section
 
-* Long End Section
+* 8' Fiberglass Arm End Section
 
-* Short End Section
+* 4' Fiberglass End Section
 
 * Counterweight Plates
 
 * Arm Lights
+
+* Arm Retaining Hardware
 
 
 
