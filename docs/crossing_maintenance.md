@@ -18,7 +18,7 @@ To ensure safe operation and performance of the device, regular maintenance shou
 
 ## Jack Maintenance
 
-![Crossing Gate Remote](assets/remote_diagram.png){: style="height:350px;width:auto"}
+![Leveling Jack](assets/jack_down.jpg){: style="height:350px;width:auto"}
 
 
 
@@ -209,6 +209,10 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 **Step 2: Stow the Crossing Arm**
 
+![Crossing Gate Remote](assets/arm_holder.jpg){: style="height:350px;width:auto"}
+
+
+
 * Locate the crossing arm holder on the deck of the trailer.
 
 * Insert the arm sections into the holder and secure with provided rubber tie straps.
@@ -237,6 +241,8 @@ The solar panel must be disconnected when not actively in use charging the batte
 * Use banding straps around the actuator mechanism to prevent the arm from moving.
 
 * Wrap actuator and arm with shrink-wrap for protection during transport and storage.
+
+
 
 ### Secure the Solar Panel
 
