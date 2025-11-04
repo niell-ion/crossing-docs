@@ -49,57 +49,12 @@ Site preparation must be completed before installing the derail system.
 
 
 
-## Towing Procedure
+## Towing
 
 !!! caution "Towing Advisory"
     The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
 
-
-
-### Maintenance
-
-* Complete all required maintenance items outlined in the section titled "Before Towing".
-
-
-
-### Securing Components
-
-!!! warning "Secure Before Towing"
-    Failure to secure all components before moving or towing the trailer may result in injury and/or damage to equipment.
-
-
-
-**Step 1: Dissasemble and Secure the Arm**  
-
-* Remove arm sections one at a time. Stow sections in holder and secure with included clamp.
-
-
-
-**Step 2: Secure the Lights**
-
-
-
-**Step 3: Lower the Crossbuck and Antennas**
-
-* Use the crank to lower the crossbuck and antennas
-
-
-
-### Retract Jacks
-
-* Fully retract leveling jacks using the crank, and attach the pin to secure jacks in highest location.
-
-* Ensure that leveling jacks are pinned at the highest hole location before moving the trailer to avoid damage to equipment.
-
-* Only use tongue jack during towing.
-
-
-
-**Step 4: Stow Arm Counterweights**
-
-* Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
-
-* Remove the counterweights one at a time. Stow on the trailer deck using the provided mounting studs, finishing with the counterweight nuts to keep them in place during transit.
+* Follow the procedure outlined to the **Maintenance** section titled "Before Storage or Transport".
 
 
 
