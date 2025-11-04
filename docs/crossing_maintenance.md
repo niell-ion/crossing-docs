@@ -264,6 +264,11 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 ### Towing Instructions
 
+!!! caution "Towing Advisory"
+    The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  
+
+
+
 * Check leveling and tongue jack lubrication.
 
 * Check tire air pressure.
