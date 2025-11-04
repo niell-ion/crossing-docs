@@ -201,6 +201,10 @@ The optimal tilt angle for solar panel efficiency depends on the latitude of the
 
 ### Leveling the Trailer
 
+![Leveling Jack](assets/jack_down.jpg){: style="height:350px;width:auto"}
+
+
+
 The trailer is equipped with four corner-mounted leveling jacks, one at each corner of the frame. These jacks are used to stabilize and level the trailer after it has been positioned at the installation site.
 
 !!! warning "Level with Corner Jacks Only"
@@ -234,8 +238,6 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 
 **Step 3: Adjust to Level**
-
-![Leveling Jack](assets/jack_down.jpg){: style="height:350px;width:auto"}
 
 * Place a bubble or digital level on the trailer frame or deck.
 
