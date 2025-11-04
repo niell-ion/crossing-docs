@@ -18,7 +18,7 @@
 
 
 
-# Solar Assembly
+## Solar Assembly
 
 * Solar Panel Assembly (2 panels may be ordered as an option)
 
