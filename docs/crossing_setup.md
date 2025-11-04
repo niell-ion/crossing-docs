@@ -85,6 +85,16 @@ Site preparation must be completed before installing the derail system.
 
 
 
+### Retract Jacks
+
+* Fully retract leveling jacks using the crank, and attach the pin to secure jacks in highest location.
+
+* Ensure that leveling jacks are pinned at the highest hole location before moving the trailer to avoid damage to equipment.
+
+* Only use tongue jack during towing.
+
+
+
 **Step 4: Stow Arm Counterweights**
 
 * Ensuring Step 1 has been completed, Remove the counterweight nuts. **Do not remove the counterweight backstop.**
@@ -184,10 +194,13 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 ### Determine Solar Angle
 
-For optimal charging performance, the solar panel must receive unobstructed, direct sunlight between **10:00 AM and 3:00 PM**.
-Ensure there is no shading from nearby structures, railcars, vegetation, or other equipment during these hours.
+* For optimal charging performance, the solar panel must receive unobstructed, direct sunlight between **10:00 AM and 3:00 PM**.
 
-If the site receives limited sunlight or experiences partial shading, a second solar panel may be installed to maintain adequate system charging capacity.
+* Ensure there is no shading from nearby structures, railcars, vegetation, or other equipment during these hours.
+
+* Controller enclosure may be moved along battery enclosure rails to allow clearance for the solar panel.
+
+* If the site receives limited sunlight or experiences partial shading, a second solar panel may be installed to maintain adequate system charging capacity.
 
 
 
