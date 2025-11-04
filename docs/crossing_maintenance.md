@@ -262,7 +262,7 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 
 
-### Towing
+### Towing Instructions
 
 * Check leveling and tongue jack lubrication.
 
