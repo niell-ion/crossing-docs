@@ -51,7 +51,7 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 
 
-**Western-Cullen-Hayes, Inc - Model 10 Signals Equipped With 3590 Series Gate Mechanism - Service and Installation Manual**
+**Western-Cullen-Hayes, Inc: Model 10 Signals Equipped With 3590 Series Gate Mechanism - Service and Installation Manual**
 
 * Referred to throughout this document as "WCH Manual".
 
