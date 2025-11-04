@@ -355,11 +355,13 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 
 
-### Raising the Crossbuck and Antennas
+### Crossbuck and Antenna Setup
+
+* Locate the cable pulley and handle attached to the crossbuck assembly.
 
 * Pull the handle to raise the crossbuck and antenna array to 90 degrees.
 
-* Hook the handle to the retaining cable.
+* Hook the handle to the retaining plate.
 
 * Tighten the turnbuckle to secure the mechanism.
 
