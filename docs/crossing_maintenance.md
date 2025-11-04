@@ -262,8 +262,16 @@ The solar panel must be disconnected when not actively in use charging the batte
 
 
 
-## Before Towing
+### Towing
 
-* Check leveling and tounge jack lubrication.
+* Check leveling and tongue jack lubrication.
 
 * Check tire air pressure.
+
+* Fully retract leveling jacks using the crank, and attach the pin to secure jacks in highest location.
+
+* Ensure that leveling jacks are pinned at the highest hole location before moving the trailer to avoid damage to equipment.
+
+* Only use tongue jack during towing.
+
+
