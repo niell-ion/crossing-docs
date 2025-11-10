@@ -391,11 +391,11 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Pull on the turnbuckle to raise the crossbuck and antenna array to 90 degrees.
 
-![Turnbuckle Attachment](assets/crossing_turnbuckle.jpg){: style="height:350px;width:auto"}
+![Turnbuckle Attachment to Retaining Plate](assets/crossing_turnbuckle.jpg){: style="height:350px;width:auto"}
 
 * Hook the turnbuckle to the retaining plate.
 
-* Tighten the turnbuckle to secure the mechanism.
+* Secure the mechanism by tightening the turnbuckle until all slack is removed from the cable.
 
 
 
