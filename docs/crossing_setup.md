@@ -375,7 +375,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Tighten U-bolt nuts **A** and **B** to lock the solar panel inclination.
 
-* Snug U-bolts with a wrench so that the solar panel will not fall out of postion.
+* Snug U-bolts with a wrench so that the solar panel will not fall out of postion. Do not overtighten nuts.
 
 
 
