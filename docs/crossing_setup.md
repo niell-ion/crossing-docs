@@ -335,7 +335,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 **Step 2: Weigh the Arm**
 
-![Fisch ](assets/crossing_scale.jpg){: style="height:350px;width:auto"}
+![Calibrating Arm Counterweight](assets/crossing_scale.jpg){: style="height:350px;width:auto"}
 
 
 
