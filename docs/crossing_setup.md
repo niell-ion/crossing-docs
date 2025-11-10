@@ -288,7 +288,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Locate the crossing arm sections in the holders on the left and right sides of the trailer.
 
-* Remove the rubber tie straps securing the arm sections.
+* Remove the rubber tie straps securing the arm sections and lift sections upward to remove.
 
 
 
