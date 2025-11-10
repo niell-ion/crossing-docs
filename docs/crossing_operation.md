@@ -1,5 +1,9 @@
 ## Local Operation
 
+![Crossing Gate Local Controller](assets/crossing_local_remote.jpg){: style="height:350px;width:auto"}
+
+
+
 Controls for local operation of the gate can be found on the front of the controller enclosure. Unlatch the smaller outer enclosure to reveal the control buttons.
 
 
