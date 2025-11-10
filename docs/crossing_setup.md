@@ -45,7 +45,7 @@ Site preparation must be completed before installing the derail system.
 
 * Level (Bubble or Digital)
 
-* Digital Hanging Scale (Must be Rated for 300+ Lbs.)
+* Digital Hanging Scale/Fish Scale (Reccomend 60+ Lbs. rating)
 
 
 
