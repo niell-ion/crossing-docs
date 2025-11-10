@@ -282,6 +282,10 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 **Step 1: Unload the Arm Sections**
 
+![Crossing Arm Sections in Holder](assets/arm_holder.jpg){: style="height:350px;width:auto"}
+
+
+
 * Locate the crossing arm sections in the holders on the left and right sides of the trailer.
 
 * Remove the rubber tie straps securing the arm sections.
