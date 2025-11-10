@@ -274,9 +274,9 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
-**5'-8':** use the smaller metal section + option smaller middle section + end section.
+**5'-8':** 6' metal section + 4' end section.
 
-**8'-22':** use the larger metal section + option larger middle section + end section.
+**8'-22':** 8' metal section + 8' middle section + 8' end section.
 
 
 
@@ -298,15 +298,15 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 **Step 3: Secure the Crossing Arm**
 
-* Verify that telescoping arm sections overlap at least 1'
+* Verify that telescoping arm sections overlap by at least 12".
 
-* Drill 1/2" holes through the overlapping sections, 6" away from the end of each section per the diagram.
+* Drill a 3/8" holes through each of the overlapping sections, 8" away from the end of each section per the diagram.
 
 * Remove any metal or fiberglass shavings from the drilled holes.
 
-* Place 1/2" bolts, washers, and nuts to secure the arm.
+* Insert provided 3/8" bolts, washers, and nuts to secure the arm.
 
-* Tighten arm bolts firmly per Western Cullen Hayes manual, do not overtighten.
+* Snug arm bolts, do not overtighten.
 
 
 
