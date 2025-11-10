@@ -357,19 +357,25 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ### Solar Panel Setup
 
+**Step 1: Set Solar Panel Rotation**
+
 * Remove the banding straps holding the solar panel in place.
 
 * Loosen the solar panel pipe receiver bolts and rotate the panel to the desired direction.
 
 * Tighten the pipe reciever bolts to lock the solar panel rotation.
 
+
+
+**Step 2: Set Solar Panel Inclination**
+
 ![Solar Panel U-Bolts](assets/crossing_solar_bolts.jpg){: style="height:350px;width:auto"}
 
+* Loosen the U-bolt nuts labeled **A** and **B** and rotate the panel to the desired inclination.
 
+* Tighten U-bolt nuts **A** and **B** to lock the solar panel inclination.
 
-* Loosen the U-bolts and rotate the panel to the desired inclination.
-
-* Tighten the U-bolts to lock the solar panel inclination.
+* Use a wrench to 
 
 
 
@@ -384,6 +390,10 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 !!! caution "Bell Orientation" 
     The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
+
+![Crossing Bell](assets/crossing_bell.jpg){: style="height:350px;width:auto"}
+
+
 
 * Refer to Western Cullen Hayes manual for detailed bell instructions.
 
