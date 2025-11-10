@@ -1,6 +1,6 @@
 ## Local Operation
 
-![Crossing Gate Local Controller](assets/crossing_local_remote.jpg){: style="height:350px;width:auto"}
+![Crossing Gate Local Controller](assets/crossing_local_control.jpg){: style="height:350px;width:auto"}
 
 
 
