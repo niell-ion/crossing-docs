@@ -363,6 +363,10 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Tighten the pipe reciever bolts to lock the solar panel rotation.
 
+![Solar Panel U-Bolts](assets/crossing_solar_bolts.jpg){: style="height:350px;width:auto"}
+
+
+
 * Loosen the U-bolts and rotate the panel to the desired inclination.
 
 * Tighten the U-bolts to lock the solar panel inclination.
