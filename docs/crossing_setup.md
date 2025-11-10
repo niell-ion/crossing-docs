@@ -323,9 +323,35 @@ Multiple arm sections are provided for installations requiring specific arm leng
     Do not remove the pre-installed counterweight blocker plate when installing the counterweights.
     Doing so may result in damage to equipment from improperly placed counterweights.
 
-* Using a fish scale, weigh the arm in its final installed configuration.
+
+
+**Step 1: Apply Initial Counterweight**
+
+* Remove the counterweight retaining nuts.
+
+* Place one counterweight on each side of the crossing arm.
+
+
+
+**Step 2: Weigh the Arm**
+
+![Fisch ](assets/crossing_scale.jpg){: style="height:350px;width:auto"}
+
+
+
+* Using a digital hanging scale/fish scale, weigh the arm in its final installed configuration.
 
 * Refer to the counterweight tables in the W.C. Hayes 3590 Series OEM manual.
+
+* Add or remove counterweight plates, checking with scale until proper weight is reached for arm length.
+
+
+
+**Step 3: Secure Counterweight**
+
+* Add counterweight retaining nuts and washers to secure plates. Tighten til snug, do not overtighten.
+
+* Stow unused counterweights in counterweight holder.
 
 
 
