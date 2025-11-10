@@ -389,9 +389,11 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Locate the cable pulley and handle attached to the crossbuck assembly.
 
-* Pull the handle to raise the crossbuck and antenna array to 90 degrees.
+* Pull on the turnbuckle to raise the crossbuck and antenna array to 90 degrees.
 
-* Hook the handle to the retaining plate.
+![Turnbuckle Attachment](assets/crossing_turnbuckle.jpg){: style="height:350px;width:auto"}
+
+* Hook the turnbuckle to the retaining plate.
 
 * Tighten the turnbuckle to secure the mechanism.
 
