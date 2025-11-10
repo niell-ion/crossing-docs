@@ -310,7 +310,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Insert provided 3/8" bolts, washers, and nuts to secure the arm.
 
-* Snug arm bolts, do not overtighten.
+* Snug arm bolts with a wrench, do not overtighten.
 
 
 
@@ -375,7 +375,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Tighten U-bolt nuts **A** and **B** to lock the solar panel inclination.
 
-* Use a wrench to 
+* Snug U-bolts with a wrench so that the solar panel will not fall out of postion.
 
 
 
