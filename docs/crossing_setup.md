@@ -377,7 +377,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 Within the controller enclosure, an array of DIP switches are visible. These switches set the address of the crossing. 
 
-* The DIP switches use binary addressing (0, 1, 10, 11...) to allow one remote to be used with multiple crossing systems.
+* The DIP switches use binary addressing to allow one remote to be used with multiple crossing systems.
 
 * Each crossing in an installation must use a unique address.
 
