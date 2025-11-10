@@ -68,7 +68,7 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 **Step 1: Verify Arm Orientation**
 
-* Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame (refer to Figure 4-3).
+* Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame.
 
 * The pivot or hinge side should align with the mounting reference point specified in the assembly drawing.
 
@@ -129,7 +129,7 @@ Before finalizing trailer placement or beginning system operation, verify that a
 !!! Caution "Levelness"
     Operating the trailer on an uneven or unstable surface can result in frame misalignment, inaccurate leveling, or equipment damage.
 
-* Use a 2–4 ft bubble level, laser level, or straightedge and ruler to check the surface in both directions.
+* Use a bubble level or laser level to check the surface in both directions.
 
 * The surface should not vary by more than **½ inch** over the length of the trailer (12 ft) or **¼ inch** across the width (8 ft).
 
