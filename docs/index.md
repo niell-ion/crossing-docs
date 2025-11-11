@@ -4,9 +4,6 @@ Welcome to the TXRX Portable Crossing Guard.
 This manual is intended for machine operators, maintenance technicians, and field engineers. 
 It provides step-by-step instructions to safely and effectively operate and maintain this equipment.
 
-!!! warning
-    This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.
-
 
 
 ### How to Use This Manual
@@ -38,6 +35,20 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 
 
+**Western-Cullen-Hayes, Inc: Model 10 Signals Equipped With 3590 Series Gate Mechanism - Service and Installation Manual**
+
+* Included with crossing assembly inside controller enclosure.
+
+* Referred to throughout this document as "WCH Manual".
+
+* Published by the original equipment manufacturer of the crossing gate actuator, pole, bell, lights and arm components, Western-Cullen-Hayes, Inc.
+
+* Contains setup, operation, and troubleshooting documentation for WCH crossing components referenced throughout the text.
+
+* Available free of charge online at http://www.wch.com/manuals/wch_3590.pdf
+
+
+
 **United States Federal Highway Administration: Manual on Uniform Traffic Control Devices for Streets and Highways, 11th Edition**
 
 * Referred to throughout this document as "MUTCD".
@@ -51,24 +62,12 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 
 
-**Western-Cullen-Hayes, Inc: Model 10 Signals Equipped With 3590 Series Gate Mechanism - Service and Installation Manual**
-
-* Referred to throughout this document as "WCH Manual".
-
-* Published by the original equipment manufacturer of the crossing gate actuator, pole, bell, lights and arm components, Western-Cullen-Hayes, Inc.
-
-* Contains setup, operation, and troubleshooting documentation for WCH crossing components referenced throughout the text.
-
-* Available free of charge online at http://www.wch.com/manuals/wch_3590.pdf
-
-
-
 ## Safety Information
 
 The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
 
-!!! warning
+!!! warning "Example Warning"
     Safety instructions are emphasized by a brightly shaded triangle and block quotes.  
     Be sure to read all safety instructions before proceeding.
  
@@ -100,10 +99,13 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
 ### Safety Disclaimer
 
+!!! warning "Personnel Warning"
+    This manual does not replace proper hands-on training. Only qualified personnel should operate or maintain this equipment.
+
 !!! warning "Equip Proper PPE"
     ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear.
 
-!!! warning 
+!!! warning "Liability Warning"
     The manufacturer assumes no liability for damage or injury resulting from:
 
     * Improper installation or operation.
@@ -114,7 +116,7 @@ Failure to comply with the instructions and safety precautions in this manual ca
 
     * Neglect of routine maintenance.
 
-!!! warning
+!!! warning "Operator Warning"
     By operating this equipment, the user agrees to accept all responsibility for its safe use. 
     If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
 
