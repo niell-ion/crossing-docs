@@ -58,7 +58,7 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 * Chapter 8D "Traffic Control for Railroad and Light Rail Transit Grade Crossings" contains regulatory and standards information applicable to the crossing gate system.
 
 !!! note
-    Pay special consideration to MUTCD standards if installing the crossing gate on public roads.
+    Pay special attention to MUTCD standards if installing the crossing gate on public roads.
 
 
 
