@@ -70,9 +70,10 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
+Warnings will appear in the following format:
 
 !!! warning "Example Warning"
-    Safety instructions are emphasized by a brightly shaded triangle and block quotes.  
+    Safety information is emphasized by a brightly shaded triangle and block quotes in the text.
     Be sure to read all safety instructions before proceeding.
  
 * Observing all safety instructions will help you to avoid accidents and prevent damage to equipment.
