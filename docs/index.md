@@ -103,43 +103,19 @@ Failure to comply with the instructions and safety precautions in this manual ca
 !!! warning "Equip Proper PPE"
     ANSI-rated Personal Protective Equipment (PPE) must be worn at all times, including safety glasses, gloves, hard hat, and protective footwear.
 
-The manufacturer assumes no liability for damage or injury resulting from:
+!!! warning 
+    The manufacturer assumes no liability for damage or injury resulting from:
 
-* Improper installation or operation.
+    * Improper installation or operation.
 
-* Unauthorized modifications.
+    * Unauthorized modifications.
 
-* Use outside of intended application.
+    * Use outside of intended application.
 
-* Neglect of routine maintenance.
+    * Neglect of routine maintenance.
 
-By operating this equipment, the user agrees to accept all responsibility for its safe use. 
-If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
+!!! warning
+    By operating this equipment, the user agrees to accept all responsibility for its safe use. 
+    If there is any uncertainty regarding safe operation, contact the manufacturer or a qualified supervisor before proceeding.
 
 
-
-## Tools and Equipment
-
-* Measuring Tape
-
-* Tamping Pick or Pickaxe
-
-* Multimeter
-
-* Metric Allen Key Set
-
-* Adjustable Wrench x2
-
-* 1/8" Slotted Screwdriver
-
-* Utility Knife
-
-* Cordless Drill + Drill Bits
-
-* Ratchet and Socket Set
-
-* Fish Tape or Pulling Rods
-
-* Level (Bubble or Digital)
-
-* Personal Protective Equipment (PPE): As required
