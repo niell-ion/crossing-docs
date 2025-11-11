@@ -53,7 +53,7 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 * Referred to throughout this document as "MUTCD".
 
-* Available free of charge online at **www.mutcd.fhwa.dot.gov**
+* Available free of charge online at **(www.mutcd.fhwa.dot.gov)**
 
 * Chapter 8D "Traffic Control for Railroad and Light Rail Transit Grade Crossings" contains regulatory and standards information applicable to the crossing gate system.
 
