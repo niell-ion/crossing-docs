@@ -64,6 +64,10 @@ The content of this manual covers custom parts designed and produced by TXRX. Re
 
 ## Safety Information
 
+<span style="color:red;">**IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING**</span></span>
+
+
+
 The safety instructions included at this point are general safety instructions.
 You will find particular safety instructions at the beginning of each chapter or at the appropriate point in the text.
 
@@ -80,8 +84,6 @@ You will find particular safety instructions at the beginning of each chapter or
 
 
 ### Safety Warning
-
-<span style="color:red;">**IMPORTANT SAFETY INFORMATION – READ BEFORE OPERATING**</span></span>
 
 This equipment is intended only for use by trained and authorized personnel. All users must read, understand, and follow the instructions in this manual before installing, operating, or servicing the equipment.
 
