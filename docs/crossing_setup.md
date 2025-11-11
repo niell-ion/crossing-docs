@@ -47,6 +47,8 @@ Site preparation must be completed before installing the derail system.
 
 * Digital Hanging Scale/Fish Scale (Reccomend 60+ Lbs. rating)
 
+* Cordless Drill with Drill Bit Set
+
 
 
 ## Towing
