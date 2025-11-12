@@ -30,6 +30,10 @@ Controls for local operation of the gate can be found on the front of the contro
 
 ## Remote Operation
 
+![Remote Storage Box](assets/crossing_remote_box.jpg){: style="height:350px;width:auto"}
+
+
+
 ![Crossing Gate Remote](assets/remote_diagram.jpg){: style="height:350px;width:auto"}
 
 
