@@ -22,7 +22,7 @@ plugins:
       output_path: document.pdf
       cover_title: Portable Crossing Gate
       cover_subtitle: Usage and Installation Manual
-      cover_logo: https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg
+      cover_logo: docs/assets/gate_aicher_rev2.jpg
       # enabled_if_env: ENABLE_PDF_EXPORT
   - caption:
 copyright: Copyright &copy; 2025 Transmit Receive Labs Inc.
