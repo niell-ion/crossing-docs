@@ -439,17 +439,8 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 ### Connecting the Lights
 
-Emergency disconnect is under hatch on battery box.
+* The crossing lights are located in the remote storage box on the trailer deck.
 
-![Solar Disconnect](assets/disconnect_diagram.jpg){: style="height:350px;width:auto"}
+* Use the provided self-tapping screws and cable clips to mount the lights to the arm.
 
-
-
-## Software
-
-
-
-### Connecting the Remote
-
-
-
+* Refer to the WCH Manual for detailed documentation of light installation and reccomended spacing.
