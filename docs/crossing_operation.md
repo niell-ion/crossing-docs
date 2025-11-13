@@ -30,9 +30,12 @@ Controls for local operation of the gate can be found on the front of the contro
 
 ## Remote Operation
 
+The crossing gate remote is stored in an attached weatherproof enclosure.
+
 ![Remote Storage Box](assets/crossing_remote_box.jpg){: style="height:350px;width:auto"}
 
-
+!!! warning "Seal Enclosure"
+    Always double-check that the enclosure is closed and the strap is tightly secured to prevent weather damage.
 
 ![Crossing Gate Remote](assets/remote_diagram.jpg){: style="height:350px;width:auto"}
 
