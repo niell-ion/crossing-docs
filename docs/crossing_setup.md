@@ -409,9 +409,9 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ![Turnbuckle Attachment to Retaining Plate](assets/crossing_turnbuckle.jpg){: style="height:350px;width:auto"}
 
-* Hook the turnbuckle to the retaining plate.
+* Hook the turnbuckle to the retaining plate as shown in the abve figure.
 
-* Secure the mechanism by tightening the turnbuckle until all slack is removed from the cable.
+* Tighten the turnbuckle until all slack is removed from the cable, securing the crossbuck assembly.
 
 
 
