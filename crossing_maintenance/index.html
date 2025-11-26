@@ -1,0 +1,1169 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Assembly and setup documentation">
+      
+      
+        <meta name="author" content="Transmit Receive Labs Inc.">
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/crossing-docs/crossing_maintenance/">
+      
+      
+        <link rel="prev" href="../crossing_operation/">
+      
+      
+        <link rel="next" href="../crossing_troubleshooting/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Maintenance - Crossing Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#maintenance-schedule" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Crossing Manual" class="md-header__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Crossing Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Maintenance
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Crossing Manual" class="md-nav__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Crossing Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_setup/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maintenance
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maintenance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#maintenance-schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Maintenance Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jack-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Jack Maintenance
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Jack Maintenance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#required-materials" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Required Materials
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lubrication-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lubrication Procedure
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#battery-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Battery Maintenance
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Battery Maintenance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#active-systems-with-solar-input" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Active Systems (with Solar Input)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inactive-or-stored-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inactive or Stored Systems
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Charging Procedure
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#before-storage-or-transport" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before Storage or Transport
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Before Storage or Transport">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disconnect-solar-from-battery" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Disconnect Solar from Battery
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secure-the-crossing-arm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Secure the Crossing Arm
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secure-the-solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Secure the Solar Panel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#towing-instructions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Towing Instructions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#maintenance-schedule" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Maintenance Schedule
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#jack-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Jack Maintenance
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Jack Maintenance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#required-materials" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Required Materials
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#lubrication-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Lubrication Procedure
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#battery-maintenance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Battery Maintenance
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Battery Maintenance">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#active-systems-with-solar-input" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Active Systems (with Solar Input)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#inactive-or-stored-systems" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Inactive or Stored Systems
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#charging-procedure" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Charging Procedure
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#before-storage-or-transport" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Before Storage or Transport
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Before Storage or Transport">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#disconnect-solar-from-battery" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Disconnect Solar from Battery
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secure-the-crossing-arm" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Secure the Crossing Arm
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#secure-the-solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Secure the Solar Panel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#towing-instructions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Towing Instructions
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Maintenance</h1>
+
+<h2 id="maintenance-schedule">Maintenance Schedule<a class="headerlink" href="#maintenance-schedule" title="Permanent link">¶</a></h2>
+<p>To ensure safe operation and performance of the device, regular maintenance should be completed according to the following table. Detailed maintenance procedures are outline further in this section.</p>
+<table>
+<thead>
+<tr>
+<th><strong>Interval</strong></th>
+<th><strong>System</strong></th>
+<th><strong>Task</strong></th>
+<th><strong>Tools / Materials</strong></th>
+<th><strong>Notes</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Before Each Tow</strong></td>
+<td>Tires</td>
+<td>Check tire pressure and condition</td>
+<td>Tire pressure gauge; air compressor</td>
+<td>Inflate to rated PSI; inspect for cracks or wear</td>
+</tr>
+<tr>
+<td><strong>Before Each Tow</strong></td>
+<td>Tongue Jack</td>
+<td>Inspect and lubricate</td>
+<td>Lithium grease; rags</td>
+<td>Check for smooth movement</td>
+</tr>
+<tr>
+<td><strong>Every 60–90 Days (Storage)</strong></td>
+<td>Battery Bank (24 V AGM)</td>
+<td>Recharge and inspect terminals</td>
+<td>Smart 24 V charger; voltmeter; brush; gloves</td>
+<td>Maintain 25.6–26.4 V; avoid overcharging</td>
+</tr>
+<tr>
+<td><strong>Every 6 Months</strong></td>
+<td>Solar System</td>
+<td>Check output and sunlight exposure</td>
+<td>Multimeter; cloth</td>
+<td>Clean panels; confirm clear sunlight 10 AM–3 PM</td>
+</tr>
+<tr>
+<td><strong>Every 6 Months</strong></td>
+<td>Leveling Jacks</td>
+<td>Clean and lubricate screw shafts and pivots</td>
+<td>Lithium grease; rags; brush; gloves</td>
+<td>Prevents corrosion and binding</td>
+</tr>
+<tr>
+<td><strong>Every 12 Months (In Use)</strong></td>
+<td>Battery Bank (24 V AGM)</td>
+<td>Recharge and inspect terminals</td>
+<td>Smart 24 V charger; voltmeter; brush; gloves</td>
+<td>Maintain 25.6–26.4 V; avoid overcharging</td>
+</tr>
+<tr>
+<td><strong>Every 12-24 Months</strong></td>
+<td>Fasteners &amp; Hardware</td>
+<td>Inspect and retighten</td>
+<td>Socket set; torque wrench</td>
+<td>Replace any rusted hardware</td>
+</tr>
+</tbody>
+</table>
+<h2 id="jack-maintenance">Jack Maintenance<a class="headerlink" href="#jack-maintenance" title="Permanent link">¶</a></h2>
+<p><figure id="_figure-1"><img alt="Leveling Jack" src="../assets/jack_down.jpg" style="height:350px;width:auto"><figcaption>Figure 1: Leveling Jack</figcaption></figure></p>
+<p>To ensure smooth operation and prevent corrosion, the trailer’s corner leveling jacks should be lubricated every six (6) months or after exposure to rain, road salt, or dusty environments. Regular lubrication extends jack service life and reduces wear on mechanical threads and pivot points.</p>
+<h3 id="required-materials">Required Materials<a class="headerlink" href="#required-materials" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Light machine oil or multi-purpose lithium grease</p>
+</li>
+<li>
+<p>Clean rags or disposable shop towels</p>
+</li>
+<li>
+<p>Small brush or aerosol applicator with extension nozzle</p>
+</li>
+<li>
+<p>Protective gloves and eyewear</p>
+</li>
+</ul>
+<h3 id="lubrication-procedure">Lubrication Procedure<a class="headerlink" href="#lubrication-procedure" title="Permanent link">¶</a></h3>
+<p><strong>Step 1: Inspect the Jacks</strong></p>
+<ul>
+<li>
+<p>Ensure the trailer is parked on a level surface and the jacks are fully retracted.</p>
+</li>
+<li>
+<p>Visually inspect each jack for dirt, rust, or accumulated debris.</p>
+</li>
+<li>
+<p>Wipe the exposed screw shafts, pivots, and housings clean with a rag.</p>
+</li>
+</ul>
+<p><strong>Step 2: Extend the Jacks</strong></p>
+<ul>
+<li>
+<p>Use the crank handle or power drive to extend each jack halfway.</p>
+</li>
+<li>
+<p>This exposes the main screw threads and inner guides for cleaning and lubrication.</p>
+</li>
+</ul>
+<p><strong>Step 3: Clean the Mechanisms</strong></p>
+<ul>
+<li>
+<p>Remove any old grease, dust, or grit using a clean rag.</p>
+</li>
+<li>
+<p>For stubborn buildup, use a mild solvent (such as mineral spirits) and allow all parts to dry completely.</p>
+</li>
+</ul>
+<p><strong>Step 4: Apply Lubricant</strong></p>
+<ul>
+<li>
+<p>Using a brush or nozzle, apply a thin, even coat of lithium grease to the screw threads, pivot pins, and moving joints.</p>
+</li>
+<li>
+<p>For enclosed gear housings, apply a few drops of light oil through the lubrication port (if equipped).</p>
+</li>
+<li>
+<p>Operate the jack through its full travel range twice to distribute lubricant evenly.</p>
+</li>
+</ul>
+<p><strong>Step 5: Wipe and Retract</strong></p>
+<ul>
+<li>
+<p>Wipe away excess grease or oil to prevent dirt accumulation.</p>
+</li>
+<li>
+<p>Fully retract the jacks and confirm smooth operation without binding or noise.</p>
+</li>
+</ul>
+<p><strong>Step 6: Repeat for all Corners</strong></p>
+<ul>
+<li>
+<p>Perform the same cleaning and lubrication process for each of the four jacks.</p>
+</li>
+<li>
+<p>Check for uniform movement and equal resistance among all jacks.</p>
+</li>
+</ul>
+<h2 id="battery-maintenance">Battery Maintenance<a class="headerlink" href="#battery-maintenance" title="Permanent link">¶</a></h2>
+<p>Absorbent Glass Mat (AGM) batteries require periodic recharging to maintain capacity and ensure reliable system performance. Even when the trailer is not in active use, the batteries should be recharged on a regular schedule to prevent sulfation and capacity loss.</p>
+<h3 id="active-systems-with-solar-input">Active Systems (with Solar Input)<a class="headerlink" href="#active-systems-with-solar-input" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>When solar panels are connected and operational, the charge controller will maintain the 24 V battery bank automatically.</p>
+</li>
+<li>
+<p>Verify that system voltage remains above 25.2 V during regular use.</p>
+</li>
+<li>
+<p>If voltage drops below 24.4 V, perform a full recharge using an approved external charger.</p>
+</li>
+</ul>
+<h3 id="inactive-or-stored-systems">Inactive or Stored Systems<a class="headerlink" href="#inactive-or-stored-systems" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>If the trailer is stored indoors or disconnected from solar power:</p>
+</li>
+<li>
+<p>Recharge every 60–90 days using a compatible 24 V AGM charger or a dual 12 V charger configured for series connection.</p>
+</li>
+<li>
+<p>Maintain resting voltage between 25.6–26.4 V for long-term storage.</p>
+</li>
+</ul>
+<h3 id="charging-procedure">Charging Procedure<a class="headerlink" href="#charging-procedure" title="Permanent link">¶</a></h3>
+<p><strong>Step 1: Inspect the Battery Bank</strong></p>
+<ul>
+<li>
+<p>Check all terminals, interconnect cables, and fuses for corrosion or looseness.</p>
+</li>
+<li>
+<p>Clean terminals using a non-metallic brush and verify tight mechanical connections.</p>
+</li>
+</ul>
+<p><strong>Step 2: Select an Appropriate Charger</strong></p>
+<ul>
+<li>
+<p>Use a smart charger rated for 24 V AGM batteries with automatic bulk, absorption, and float modes.</p>
+</li>
+<li>
+<p>Charging profile should reach 28.8–29.4 V during the absorption phase and hold 26.4–27.0 V during float mode.</p>
+</li>
+<li>
+<p>Avoid unregulated or “boost” chargers, which can cause overcharging and thermal damage.</p>
+</li>
+</ul>
+<p><strong>Step 3: Connect the Charger</strong></p>
+<ul>
+<li>
+<p>Attach the positive (red) lead to the battery bank’s positive (+) terminal and the negative (black) lead to the negative (–) terminal.</p>
+</li>
+<li>
+<p>Confirm correct polarity and tight contact before turning on the charger.</p>
+</li>
+</ul>
+<p><strong>Step 4: Monitor Charging Progress</strong></p>
+<ul>
+<li>
+<p>Allow charging to continue until the battery reaches 100 % state of charge, as indicated by charger status or stabilized current.</p>
+</li>
+<li>
+<p>When charging completes, verify voltage has settled to approximately 26.0–26.4 V after one hour at rest.</p>
+</li>
+</ul>
+<p><strong>Step 5: Disconnect and Record</strong></p>
+<ul>
+<li>Turn off the charger, disconnect leads in reverse order, and note the recharge date, final voltage, and any observations in the maintenance log.</li>
+</ul>
+<h2 id="before-storage-or-transport">Before Storage or Transport<a class="headerlink" href="#before-storage-or-transport" title="Permanent link">¶</a></h2>
+<h3 id="disconnect-solar-from-battery">Disconnect Solar from Battery<a class="headerlink" href="#disconnect-solar-from-battery" title="Permanent link">¶</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>Keep clear of crossing arm travel path when disconnecting the battery. The crossing arm will come down immediately when powered off.</p>
+</div>
+<p>The solar panel must be disconnected when not actively in use charging the battery.</p>
+<p><strong>Step 1: Open Disconnect Cover</strong></p>
+<p><figure id="_figure-2"><img alt="Solar Disconnect" src="../assets/disconnect_diagram.jpg" style="height:350px;width:auto"><figcaption>Figure 2: Solar Disconnect</figcaption></figure></p>
+<ul>
+<li>Locate and open the quick disconnect hatch on the top of the battery box.</li>
+</ul>
+<p><strong>Step 2: Disconnect Solar Panel</strong></p>
+<ul>
+<li>
+<p>Verify all personnel, equipment, and crossing components are clear of the arm travel path.</p>
+</li>
+<li>
+<p>Flip the lever to disconnect the solar panel from the battery.</p>
+</li>
+<li>
+<p>If raised, the crossing arm will fall to its down position.</p>
+</li>
+</ul>
+<p><strong>Step 3: Close Cover</strong></p>
+<ul>
+<li>Close and latch disconnect cover.</li>
+</ul>
+<h3 id="secure-the-crossing-arm">Secure the Crossing Arm<a class="headerlink" href="#secure-the-crossing-arm" title="Permanent link">¶</a></h3>
+<p><strong>Step 1: Remove the Lights</strong></p>
+<ul>
+<li>
+<p>Disconnect the lights from the controller.</p>
+</li>
+<li>
+<p>Unscrew the self-tapping screws fastening the lights to the arm.</p>
+</li>
+<li>
+<p>Stow the lights in the accessory box.</p>
+</li>
+</ul>
+<p><strong>Step 1: Disassemble the Crossing Arm</strong></p>
+<ul>
+<li>
+<p>Verify that the arm is in the <strong>down</strong> position.</p>
+</li>
+<li>
+<p>Remove the crossing arm sections in reverse installation order.</p>
+</li>
+</ul>
+<p><strong>Step 2: Stow the Crossing Arm</strong></p>
+<p><figure id="_figure-3"><img alt="Crossing Arm Stowed in Holder" src="../assets/arm_holder.jpg" style="height:350px;width:auto"><figcaption>Figure 3: Crossing Arm Stowed in Holder</figcaption></figure></p>
+<ul>
+<li>
+<p>Locate the crossing arm holder on the deck of the trailer.</p>
+</li>
+<li>
+<p>Insert the arm sections into the holder and secure with provided rubber tie straps.</p>
+</li>
+<li>
+<p>Stow the shortest fiberglass extension section inside the short metal section, to prevent it coming loose during transport.</p>
+</li>
+</ul>
+<p><strong>Step 3: Remove and Stow the Counterweights</strong></p>
+<ul>
+<li>Remove the nuts securing the counterweights.</li>
+</ul>
+<p>!!! warning "Counterweight Blocker Plate
+    Do not remove the counterweight blocker plate when removing the counterweights. Doing so may result in damage to equipment from improperly placed counterweights.</p>
+<ul>
+<li>
+<p>Remove the counterweight plates in reverse installation order.</p>
+</li>
+<li>
+<p>Locate the counterweight holder on the deck of the trailer.</p>
+</li>
+<li>
+<p>Stow the counterweights and secure with the counterweight nuts.</p>
+</li>
+</ul>
+<p><strong>Step 4: Secure the Arm</strong></p>
+<ul>
+<li>
+<p>Use banding straps around the actuator mechanism to prevent the arm from moving.</p>
+</li>
+<li>
+<p>Wrap actuator and arm with shrink-wrap for protection during transport and storage.</p>
+</li>
+</ul>
+<h3 id="secure-the-solar-panel">Secure the Solar Panel<a class="headerlink" href="#secure-the-solar-panel" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Rotate solar panel to shipping position.</p>
+</li>
+<li>
+<p>Secure the solar panel using banding straps.</p>
+</li>
+</ul>
+<h3 id="towing-instructions">Towing Instructions<a class="headerlink" href="#towing-instructions" title="Permanent link">¶</a></h3>
+<div class="admonition caution">
+<p class="admonition-title">Towing Advisory</p>
+<p>The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  </p>
+</div>
+<ul>
+<li>
+<p>Check leveling and tongue jack lubrication.</p>
+</li>
+<li>
+<p>Check tire air pressure.</p>
+</li>
+<li>
+<p>Fully retract leveling jacks using the crank, and attach the pin to secure jacks in highest location.</p>
+</li>
+<li>
+<p>Ensure that leveling jacks are pinned at the highest hole location before moving the trailer to avoid damage to equipment.</p>
+</li>
+<li>
+<p>Only use tongue jack during towing.</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../crossing_operation/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Operation">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                Operation
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../crossing_troubleshooting/" class="md-footer__link md-footer__link--next" aria-label="Next: Troubleshooting">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Troubleshooting
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Transmit Receive Labs Inc.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.footer"], "search": "../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
