@@ -301,7 +301,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Verify that telescoping arm sections overlap by at least 12".
 
-* Drill a 3/8" holes through each of the overlapping sections, 8" away from the end of each section per the diagram.
+* Using a 3/8" drill bit, drill bolt holes  through each of the overlapping sections, 8" away from the end of each section per the diagram.
 
 * Remove any metal or fiberglass shavings from the drilled holes.
 
@@ -402,7 +402,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ![Turnbuckle Attachment to Retaining Plate](assets/crossing_turnbuckle.jpg){: style="height:350px;width:auto"}
 
-* Hook the turnbuckle to the retaining plate as shown in the abve figure.
+* Hook the turnbuckle to the retaining plate as shown in the above figure.
 
 * Tighten the turnbuckle until all slack is removed from the cable, securing the crossbuck assembly.
 
@@ -436,4 +436,4 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 * Use the provided self-tapping screws and cable clips to mount the lights to the arm.
 
-* Refer to the WCH Manual for detailed documentation of light installation and reccomended spacing.
+* Refer to the WCH Manual for detailed documentation of light installation and recommended spacing.
