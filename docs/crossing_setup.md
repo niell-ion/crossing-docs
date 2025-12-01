@@ -269,7 +269,19 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 !!! tip
     Refer to the Western Cullen Hayes service and Installation manual for detailed arm installation and counterweighting instructions.
 
-Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
+Multiple arm sections are provided for installations requiring specific arm lengths. 
+
+8' Aluminum Arm Section
+
+6' Aluminum Arm Section
+
+8' Fiberglass Arm Section
+
+8' Fiberglass Arm End Section
+
+4' Fiberglass End Section
+
+Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
 ![Provided Crossing Arm Sections](assets/crossing_arm_sections.jpg){: style="height:350px;width:auto"}
 
