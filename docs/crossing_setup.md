@@ -338,7 +338,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Using a digital hanging scale/fish scale, weigh the arm in its final installed configuration.
 
-* Refer to the counterweight tables in the W.C. Hayes 3590 Series OEM manual.
+* Refer to the counterweight tables located on Page 22 of the W.C. Hayes 3597 Series OEM manual - "TABLE OF WEIGHT AND VERTICAL TORQUE VALUES FOR FIBERGLASS AND ALUMINUM/FIBERGLASS GATE ARMS: OBLONG COUNTERWEIGHTS WITH ALUMINUM COUNTERWEIGHT ARMS"
 
 * Add or remove counterweight plates, checking with scale until proper weight is reached for arm length.
 
@@ -368,7 +368,9 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 ![Solar Panel U-Bolts](assets/crossing_solar_bolts.jpg){: style="height:350px;width:auto"}
 
-* Loosen the U-bolt nuts labeled **A** and **B** and rotate the panel to the desired inclination.
+* Loosen the U-bolt nuts labeled **A** and **B** until the panel tilts freely.
+
+* Rotate the panel to the desired inclination.
 
 * Tighten U-bolt nuts **A** and **B** to lock the solar panel inclination.
 
@@ -422,7 +424,7 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 ### Connecting the Solar Panel
 
-* Connect solar jack on battery to solar plug attached to panel.
+* Connect battery solar jack to solar plug attached to panel.
 
 * If using two panels, use the provided Y-splitter to connect both panels to the battery input.
 
