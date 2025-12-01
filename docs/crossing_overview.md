@@ -44,7 +44,7 @@
 
 ## Arm Assembly
 
-* 6' Aluminum Arm Section
+* 8' Aluminum Arm Section
 
 * 6' Aluminum Arm Section
 
