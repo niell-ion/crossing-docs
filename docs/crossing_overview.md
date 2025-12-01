@@ -56,9 +56,13 @@
 
 * Counterweight Plates
 
-* Arm Lights
+* Counterweight Hardware
 
 * Arm Retaining Hardware
+
+* Arm Lights
+
+* Arm Light Mounting Hardware
 
 
 
