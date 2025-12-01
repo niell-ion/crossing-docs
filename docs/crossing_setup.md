@@ -90,19 +90,14 @@ Before finalizing trailer placement or beginning system operation, verify that a
 
 **Step 3: Measure Operational Clearance**
 
-* With the arm extended to its full working position, measure the horizontal and vertical clearances around the structure.
+!!! caution "Electrical Lines"
+    Do not attempt setup in area where the arm may be in conflict with electrical/power lines.
+
+* Determine the required arm length needed for the installation site.
 
 * Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.
 
 * If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.
-
-
-
-**Step 4: Lock and Secure**
-
-* After verifying clearances, tighten all pivot bolts, clamps, or lock pins to manufacturer specifications.
-
-* Confirm that no cables or hoses are under tension or pinched during movement of the arm or sign.
 
 
 
@@ -394,8 +389,6 @@ Multiple arm sections are provided for installations requiring specific arm leng
     The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.
 
 ![Crossing Bell](assets/crossing_bell.jpg){: style="height:350px;width:auto"}
-
-
 
 * Refer to Western Cullen Hayes manual for detailed bell instructions.
 
