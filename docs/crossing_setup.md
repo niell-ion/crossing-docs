@@ -271,6 +271,10 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 Multiple arm sections are provided for installations requiring specific arm lengths. Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
 
+![Provided Crossing Arm Sections](assets/crossing_arm_sections.jpg){: style="height:350px;width:auto"}
+
+
+
 **5'-8':** 6' metal section + 4' end section.
 
 **8'-22':** 8' metal section + 8' middle section + 8' end section.
