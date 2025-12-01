@@ -297,7 +297,7 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Install the arm sections in sequential order. Use only the sections needed for the installation length.
 
-* Allow telescoping sections to overlap by at least 1'.
+* Allow telescoping sections to overlap by at least 12".
 
 
 
