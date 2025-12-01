@@ -432,10 +432,20 @@ Within the controller enclosure, an array of DIP switches are visible. These swi
 
 
 
-### Connecting the Lights
+### Connecting the Gate Arm Lights
 
 * The crossing lights are located in the remote storage box on the trailer deck.
 
-* Use the provided self-tapping screws and cable clips to mount the lights to the arm.
+* Refer to the page 15 of the W.C. Hayes 3597 Series OEM manual for detailed installation instructions.
 
-* Refer to the WCH Manual for detailed documentation of light installation and recommended spacing.
+* Use the provided self-tapping screws to mount the lights to the arm.
+
+* Use the provided cable clips to affix the cable. Leave slack in the cable for drip points.
+
+* For installation distances, refer to page 15, figure 8 of the W.C. Hayes 3597 Series OEM manual - "Suggested Roadway Gate Arm Light Spacing"
+
+* Connect light cable to controller.
+
+* Ensure all connections are secure and fully seated, and that lights are receiving power.
+
+
