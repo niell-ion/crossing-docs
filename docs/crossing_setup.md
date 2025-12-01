@@ -342,6 +342,8 @@ Multiple arm sections are provided for installations requiring specific arm leng
 
 * Using a digital hanging scale/fish scale, weigh the arm in its final installed configuration.
 
+* Place the scale 10 feet from the center of the arm pivot point.
+
 * Refer to the counterweight tables located on Page 22 of the W.C. Hayes 3597 Series OEM manual - "TABLE OF WEIGHT AND VERTICAL TORQUE VALUES FOR FIBERGLASS AND ALUMINUM/FIBERGLASS GATE ARMS: OBLONG COUNTERWEIGHTS WITH ALUMINUM COUNTERWEIGHT ARMS"
 
 * Add or remove counterweight plates, checking with scale until proper weight is reached for arm length.
