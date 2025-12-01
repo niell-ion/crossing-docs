@@ -271,25 +271,19 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 Multiple arm sections are provided for installations requiring specific arm lengths. 
 
-8' Aluminum Arm Section
-
-6' Aluminum Arm Section
-
-8' Fiberglass Arm Section
-
-8' Fiberglass Arm End Section
-
-4' Fiberglass End Section
-
-Two metal sections are included, two middle sections, and one end section. Refer to the following table to determine the correct arm setup procedure for your specific installation length.
-
 ![Provided Crossing Arm Sections](assets/crossing_arm_sections.jpg){: style="height:350px;width:auto"}
 
+| Designation | Description                 | Length |
+|-------------|------------------------------|--------|
+| A           | Aluminum Arm Section         | 8 ft.  |
+| B           | Aluminum Arm Section         | 6 ft.  |
+| C           | Fiberglass Arm Section       | 8 ft.  |
+| D           | Fiberglass Arm End Section   | 8 ft.  |
+| E           | Fiberglass End Section       | 4 ft.  |
 
+**For installations from 5'-8'**: use sections B + E.
 
-**5'-8':** 6' metal section + 4' end section.
-
-**8'-22':** 8' metal section + 8' middle section + 8' end section.
+**For installations from 8'-22'**: use sections A + C + D.
 
 
 
