@@ -254,6 +254,27 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 
 
 
+### Determining Arm Length
+
+Multiple arm sections are provided for installations requiring specific arm lengths. Before proceeding with arm installation, determine the 
+
+![Provided Crossing Arm Sections](assets/crossing_arm_sections.jpg){: style="height:350px;width:auto"}
+
+| Designation | Description                 | Length |
+|-------------|------------------------------|--------|
+| A           | Aluminum Arm Section         | 8 ft.  |
+| B           | Aluminum Arm Section         | 6 ft.  |
+| C           | Fiberglass Arm Section       | 8 ft.  |
+| D           | Fiberglass Arm End Section   | 8 ft.  |
+| E           | Fiberglass End Section       | 4 ft.  |
+
+
+
+**For installations from 5'-8'**: use sections B + E.
+
+**For installations from 8'-22'**: use sections A + C + D.
+
+
 ## Setup
 
 !!! warning "Levelness"
@@ -269,22 +290,6 @@ The trailer is equipped with four corner-mounted leveling jacks, one at each cor
 !!! tip
     Refer to the Western Cullen Hayes service and Installation manual for detailed arm installation and counterweighting instructions.
 
-Multiple arm sections are provided for installations requiring specific arm lengths. 
-
-![Provided Crossing Arm Sections](assets/crossing_arm_sections.jpg){: style="height:350px;width:auto"}
-
-| Designation | Description                 | Length |
-|-------------|------------------------------|--------|
-| A           | Aluminum Arm Section         | 8 ft.  |
-| B           | Aluminum Arm Section         | 6 ft.  |
-| C           | Fiberglass Arm Section       | 8 ft.  |
-| D           | Fiberglass Arm End Section   | 8 ft.  |
-| E           | Fiberglass End Section       | 4 ft.  |
-
-**For installations from 5'-8'**: use sections B + E.
-
-**For installations from 8'-22'**: use sections A + C + D.
-
 
 
 **Step 1: Unload the Arm Sections**
@@ -292,6 +297,8 @@ Multiple arm sections are provided for installations requiring specific arm leng
 ![Crossing Arm Sections in Holder](assets/arm_holder.jpg){: style="height:350px;width:auto"}
 
 
+
+* Ensure proceeding steps have been completed to determine the correct arm length.
 
 * Locate the crossing arm sections in the holders on the left and right sides of the trailer.
 
