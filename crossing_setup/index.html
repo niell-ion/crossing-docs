@@ -1,0 +1,1559 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Assembly and setup documentation">
+      
+      
+        <meta name="author" content="Transmit Receive Labs Inc.">
+      
+      
+        <link rel="canonical" href="https://niell-ion.github.io/crossing-docs/crossing_setup/">
+      
+      
+        <link rel="prev" href="../crossing_overview/">
+      
+      
+        <link rel="next" href="../crossing_operation/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.0">
+    
+    
+      
+        <title>Setup - Crossing Manual</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.618322db.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="deep-orange" data-md-color-accent="blue">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#preface" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href=".." title="Crossing Manual" class="md-header__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Crossing Manual
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Setup
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+    
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Crossing Manual" class="md-nav__button md-logo" aria-label="Crossing Manual" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Crossing Manual
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_overview/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    System Overview
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Setup
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preface" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preface
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Preface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#personal-protective-equipment-ppe" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Personal Protective Equipment (PPE)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tools and Equipment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#towing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Towing
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#site-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Site Preparation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Site Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#check-clearance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Check Clearance
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#check-levelness" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Check Levelness
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#determine-solar-angle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Determine Solar Angle
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leveling-the-trailer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Leveling the Trailer
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#determining-arm-length" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Determining Arm Length
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Setup
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#crossing-arm-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Crossing Arm Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#counterweight-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Counterweight Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solar Panel Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#roadway-lights-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Roadway Lights Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bell-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bell Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crossbuck-and-antenna-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Crossbuck and Antenna Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electrical" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Electrical
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Electrical">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#addressing-the-crossing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Addressing the Crossing
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connecting-the-solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connecting the Solar Panel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connecting-the-gate-arm-lights" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connecting the Gate Arm Lights
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_operation/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Operation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_maintenance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Maintenance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../crossing_troubleshooting/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Troubleshooting
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#preface" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Preface
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Preface">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#personal-protective-equipment-ppe" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Personal Protective Equipment (PPE)
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tools-and-equipment" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Tools and Equipment
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#towing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Towing
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#site-preparation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Site Preparation
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Site Preparation">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#check-clearance" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Check Clearance
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#check-levelness" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Check Levelness
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#determine-solar-angle" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Determine Solar Angle
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#leveling-the-trailer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Leveling the Trailer
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#determining-arm-length" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Determining Arm Length
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Setup
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Setup">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#crossing-arm-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Crossing Arm Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#counterweight-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Counterweight Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#solar-panel-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Solar Panel Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#roadway-lights-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Roadway Lights Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bell-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Bell Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#crossbuck-and-antenna-setup" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Crossbuck and Antenna Setup
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#electrical" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Electrical
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Electrical">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#addressing-the-crossing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Addressing the Crossing
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connecting-the-solar-panel" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connecting the Solar Panel
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#connecting-the-gate-arm-lights" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Connecting the Gate Arm Lights
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+  <h1>Setup</h1>
+
+<h2 id="preface">Preface<a class="headerlink" href="#preface" title="Permanent link">¶</a></h2>
+<div class="admonition caution">
+<p class="admonition-title">Disclaimer</p>
+<p>Always ensure you have the correct tools and training before beginning installation.  </p>
+</div>
+<p>Attempting installation without the specified tools may result in improper assembly, equipment damage, or injury.  </p>
+<p>Before beginning installation, confirm that all required tools and components are available.<br>
+Site preparation must be completed before installing the derail system.  </p>
+<h3 id="personal-protective-equipment-ppe">Personal Protective Equipment (PPE)<a class="headerlink" href="#personal-protective-equipment-ppe" title="Permanent link">¶</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">PPE Advisory</p>
+<p>All required personal protective equipment must be equipped before transport, maintenance, or assembly.</p>
+</div>
+<ul>
+<li>
+<p>Hard Hat  </p>
+</li>
+<li>
+<p>Earplugs or Earmuffs</p>
+</li>
+<li>
+<p>Safety Glasses</p>
+</li>
+<li>
+<p>Gloves  </p>
+</li>
+<li>
+<p>Steel Toe Footwear  </p>
+</li>
+<li>
+<p>High Visibility Clothing</p>
+</li>
+</ul>
+<h3 id="tools-and-equipment">Tools and Equipment<a class="headerlink" href="#tools-and-equipment" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Measuring Tape</p>
+</li>
+<li>
+<p>Tamping Pick or Pickaxe</p>
+</li>
+<li>
+<p>Multimeter</p>
+</li>
+<li>
+<p>Metric Allen Key Set</p>
+</li>
+<li>
+<p>Adjustable Wrench x2</p>
+</li>
+<li>
+<p>1/8" Slotted Screwdriver</p>
+</li>
+<li>
+<p>Level (Bubble or Digital)</p>
+</li>
+<li>
+<p>Digital Hanging Scale/Fish Scale (Reccomend 60+ Lbs. rating)</p>
+</li>
+<li>
+<p>Cordless Drill with Drill Bit Set</p>
+</li>
+</ul>
+<h3 id="towing">Towing<a class="headerlink" href="#towing" title="Permanent link">¶</a></h3>
+<div class="admonition caution">
+<p class="admonition-title">Towing Advisory</p>
+<p>The trailer is not registered for towing on public roads. The Portable Crossing Guard must be transported via flatbed when traversing public roads.  </p>
+</div>
+<ul>
+<li>Follow the procedure described in the <strong>Maintenance</strong> section titled "Before Storage or Transport".</li>
+</ul>
+<h2 id="site-preparation">Site Preparation<a class="headerlink" href="#site-preparation" title="Permanent link">¶</a></h2>
+<h3 id="check-clearance">Check Clearance<a class="headerlink" href="#check-clearance" title="Permanent link">¶</a></h3>
+<p>Before finalizing trailer placement or beginning system operation, verify that all mounted components — particularly the arm assembly and sign structure — have adequate clearance in their intended orientation and operating range.</p>
+<p><strong>Step 1: Verify Arm Orientation</strong></p>
+<ul>
+<li>
+<p>Confirm that the arm assembly is installed facing the correct direction relative to the trailer frame.</p>
+</li>
+<li>
+<p>The pivot or hinge side should align with the mounting reference point specified in the assembly drawing.</p>
+</li>
+<li>
+<p>Ensure there are no obstructions above or beside the arm that could interfere with its full range of motion.</p>
+</li>
+</ul>
+<p><strong>Step 2: Check Sign Orientation</strong></p>
+<ul>
+<li>
+<p>The sign face should be perpendicular to the direction of approaching traffic or as required by the installation plan.</p>
+</li>
+<li>
+<p>Verify that the top and bottom edges are parallel to the trailer deck once the trailer is fully leveled.</p>
+</li>
+<li>
+<p>If applicable, confirm that the sign conforms to MUTCD visibility and height requirements. The lower edge of the sign should typically be at least 7 ft (2.1 m) above the ground surface in pedestrian areas, or as required by local code.</p>
+</li>
+</ul>
+<p><strong>Step 3: Measure Operational Clearance</strong></p>
+<div class="admonition caution">
+<p class="admonition-title">Electrical Lines</p>
+<p>Do not attempt setup in area where the arm may be in conflict with electrical/power lines.</p>
+</div>
+<ul>
+<li>
+<p>Determine the required arm length needed for the installation site.</p>
+</li>
+<li>
+<p>Maintain a minimum of 12 in (305 mm) of clearance from any moving or rotating component to nearby surfaces, fixtures, or cables.</p>
+</li>
+<li>
+<p>If operating near buildings or trees, confirm that the arm and sign have unrestricted motion through their full intended range.</p>
+</li>
+</ul>
+<h3 id="check-levelness">Check Levelness<a class="headerlink" href="#check-levelness" title="Permanent link">¶</a></h3>
+<p><strong>Step 1: Inspect the Ground Surface</strong></p>
+<ul>
+<li>
+<p>Choose a compact, load-bearing surface such as concrete, asphalt, or well-compacted gravel.</p>
+</li>
+<li>
+<p>Avoid locations with loose soil, soft clay, grass, or sand, as these may settle unevenly under the trailer’s weight.</p>
+</li>
+<li>
+<p>Ensure there are no depressions, mounds, or large stones beneath the jack points. These can cause twisting of the frame or difficulty in leveling.</p>
+</li>
+</ul>
+<p><strong>Step 2: Assess Surface Drainage</strong></p>
+<ul>
+<li>
+<p>Select an area with good runoff so water will not pool under or around the trailer.</p>
+</li>
+<li>
+<p>Avoid low-lying areas that retain moisture, which can cause the trailer to settle into the ground.</p>
+</li>
+</ul>
+<p><strong>Step 3: Check for Slope and Elevation</strong></p>
+<div class="admonition caution">
+<p class="admonition-title">Levelness</p>
+<p>Operating the trailer on an uneven or unstable surface can result in frame misalignment, inaccurate leveling, or equipment damage.</p>
+</div>
+<ul>
+<li>
+<p>Use a bubble level or laser level to check the surface in both directions.</p>
+</li>
+<li>
+<p>The surface should not vary by more than <strong>½ inch</strong> over the length of the trailer (12 ft) or <strong>¼ inch</strong> across the width (8 ft).</p>
+</li>
+<li>
+<p>If the variation exceeds these limits, adjust by relocating the trailer or using leveling pads under the jacks.</p>
+</li>
+</ul>
+<p><strong>Step 4: Prepare the Contact Area</strong></p>
+<ul>
+<li>
+<p>Clear debris, gravel clusters, or vegetation from under each jack location.</p>
+</li>
+<li>
+<p>If the surface is uneven, place solid wooden or composite blocks beneath the jacks to distribute load evenly.</p>
+</li>
+<li>
+<p>Never use rocks, bricks, or cinder blocks, as they may fracture under pressure.</p>
+</li>
+</ul>
+<h3 id="determine-solar-angle">Determine Solar Angle<a class="headerlink" href="#determine-solar-angle" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>For optimal charging performance, the solar panel must receive unobstructed, direct sunlight between <strong>10:00 AM and 3:00 PM</strong>.</p>
+</li>
+<li>
+<p>Ensure there is no shading from nearby structures, railcars, vegetation, or other equipment during these hours.</p>
+</li>
+<li>
+<p>Controller enclosure may be moved along battery enclosure rails to allow clearance for the solar panel.</p>
+</li>
+<li>
+<p>If the site receives limited sunlight or experiences partial shading, a second solar panel may be installed to maintain adequate system charging capacity.</p>
+</li>
+</ul>
+<p><strong>Step 1: Determine Panel Direction</strong></p>
+<ul>
+<li>
+<p>For installations north of the Equator, the solar panel should face <strong>south</strong> for optimal efficiency.</p>
+</li>
+<li>
+<p>Observe the site and ensure that the solar panel will receive sun once installed.</p>
+</li>
+<li>
+<p>Two locations with <strong>1/4"-20</strong> threaded stud patterns are provided for mounting the solar panel and light assemblies.</p>
+</li>
+<li>
+<p>The solar panel must be mounted on the stud pattern closest to the side of the device that will receive the most sunlight.  </p>
+</li>
+</ul>
+<p><strong>Step 1: Measure Tilt Angle</strong></p>
+<p>The optimal tilt angle for solar panel efficiency depends on the latitude of the installation site.</p>
+<ul>
+<li>
+<p>Use a maps or GPS app to measure the site latitude.</p>
+</li>
+<li>
+<p>Set the tilt angle equal to the latitude.</p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Latitude = 38.2° → Tilt angle = <strong>38.2°</strong></p>
+</div>
+<p><strong>Step 2: Seasonal adjustments:</strong></p>
+<ul>
+<li>
+<p>Winter = <strong>Latitude + 15°</strong>  </p>
+</li>
+<li>
+<p>Summer = <strong>Latitude – 15°</strong>  </p>
+</li>
+<li>
+<p>Spring/Fall = <strong>Latitude only</strong>  </p>
+</li>
+</ul>
+<div class="admonition example">
+<p class="admonition-title">Example</p>
+<p>Spring/Fall tilt angle = <strong>38.2°</strong><br>
+Winter tilt angle = 38.2° + 15° = <strong>53.2°</strong><br>
+Summer tilt angle = 38.2° – 15° = <strong>23.2°</strong>  </p>
+</div>
+<h3 id="leveling-the-trailer">Leveling the Trailer<a class="headerlink" href="#leveling-the-trailer" title="Permanent link">¶</a></h3>
+<p><figure id="_figure-1"><img alt="Leveling Jack" src="../assets/jack_down.jpg" style="height:350px;width:auto"><figcaption>Figure 1: Leveling Jack</figcaption></figure></p>
+<p>The trailer is equipped with four corner-mounted leveling jacks, one at each corner of the frame. These jacks are used to stabilize and level the trailer after it has been positioned at the installation site.</p>
+<div class="admonition warning">
+<p class="admonition-title">Level with Corner Jacks Only</p>
+<p>Do not use the fifth-wheel jack (tongue jack) to support or level the trailer.
+The fifth-wheel jack is intended only for hitching and towing. Using it for leveling may cause frame distortion or unsafe loading.</p>
+</div>
+<p><strong>Step 1: Preparing to Level</strong></p>
+<ul>
+<li>
+<p>Inspect the ground. Verify that the surface beneath each jack is firm, flat, and load-bearing. If the site is gravel or soil, place a concrete paver, composite pad, or steel plate beneath each jack foot to prevent sinking or shifting.</p>
+</li>
+<li>
+<p>Check jack condition. Ensure each jack is free of rust, bends, or mechanical damage. Confirm that all mounting bolts are tight and that the jack threads or screw mechanisms move smoothly.</p>
+</li>
+<li>
+<p>Confirm travel range. Each jack must have sufficient travel to raise the trailer until the wheels are just off the ground. This ensures all load weight is transferred to the jacks for accurate leveling.</p>
+</li>
+</ul>
+<p><strong>Step 2: Leveling Procedure</strong></p>
+<ul>
+<li>
+<p>Park the trailer in the desired position and set the wheel chocks to prevent rolling.</p>
+</li>
+<li>
+<p>Disconnect the trailer from the towing vehicle if necessary.</p>
+</li>
+<li>
+<p>Lower the corner jacks, starting with the rear jacks to stabilize the frame.</p>
+</li>
+<li>
+<p>Lower each jack until it makes firm contact with the ground or paver.</p>
+</li>
+<li>
+<p>Then lower the front jacks, adjusting each incrementally.</p>
+</li>
+</ul>
+<p><strong>Step 3: Adjust to Level</strong></p>
+<ul>
+<li>
+<p>Place a bubble or digital level on the trailer frame or deck.</p>
+</li>
+<li>
+<p>Adjust opposing jacks (A–C and B–D, see Figure 4-1) in small increments until the trailer is level front-to-back and side-to-side.</p>
+</li>
+<li>
+<p>Continue fine adjustments until the trailer frame is fully level and stable, and all four jacks share the load evenly.</p>
+</li>
+</ul>
+<p><strong>Step 4: Verify Clearance and Levelness</strong></p>
+<ul>
+<li>
+<p>Ensure the wheels are off the ground and the jack arms are extended within safe limits.</p>
+</li>
+<li>
+<p>Check that arm, lights, and crossbuck meet MUTCD height requirements relative to roadway.</p>
+</li>
+<li>
+<p>The trailer must remain stationary and rigid when moderate force is applied to any corner.</p>
+</li>
+</ul>
+<h3 id="determining-arm-length">Determining Arm Length<a class="headerlink" href="#determining-arm-length" title="Permanent link">¶</a></h3>
+<p>Multiple arm sections are provided for installations requiring specific arm lengths. Before proceeding with arm installation, determine the </p>
+<p><figure id="_figure-2"><img alt="Provided Crossing Arm Sections" src="../assets/crossing_arm_sections.jpg" style="height:350px;width:auto"><figcaption>Figure 2: Provided Crossing Arm Sections</figcaption></figure></p>
+<table>
+<thead>
+<tr>
+<th>Designation</th>
+<th>Description</th>
+<th>Length</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>A</td>
+<td>Aluminum Arm Section</td>
+<td>8 ft.</td>
+</tr>
+<tr>
+<td>B</td>
+<td>Aluminum Arm Section</td>
+<td>6 ft.</td>
+</tr>
+<tr>
+<td>C</td>
+<td>Fiberglass Arm Section</td>
+<td>8 ft.</td>
+</tr>
+<tr>
+<td>D</td>
+<td>Fiberglass Arm End Section</td>
+<td>8 ft.</td>
+</tr>
+<tr>
+<td>E</td>
+<td>Fiberglass End Section</td>
+<td>4 ft.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>For installations from 5'-8'</strong>: use sections B + E.</p>
+<p><strong>For installations from 8'-22'</strong>: use sections A + C + D.</p>
+<h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">¶</a></h2>
+<div class="admonition warning">
+<p class="admonition-title">Levelness</p>
+<p>Trailer leveling must be complete before proceeding with setup.</p>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Weather</p>
+<p>Before beginning trailer setup, check weather forecast. Do not attempt setup in high winds or lighting.</p>
+</div>
+<h3 id="crossing-arm-setup">Crossing Arm Setup<a class="headerlink" href="#crossing-arm-setup" title="Permanent link">¶</a></h3>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Refer to the Western Cullen Hayes service and Installation manual for detailed arm installation and counterweighting instructions.</p>
+</div>
+<p><strong>Step 1: Unload the Arm Sections</strong></p>
+<p><figure id="_figure-3"><img alt="Crossing Arm Sections in Holder" src="../assets/arm_holder.jpg" style="height:350px;width:auto"><figcaption>Figure 3: Crossing Arm Sections in Holder</figcaption></figure></p>
+<ul>
+<li>
+<p>Ensure proceeding steps have been completed to determine the correct arm length.</p>
+</li>
+<li>
+<p>Locate the crossing arm sections in the holders on the left and right sides of the trailer.</p>
+</li>
+<li>
+<p>Remove the rubber tie straps securing the arm sections and lift sections upward to remove.</p>
+</li>
+</ul>
+<p><strong>Step 2: Assemble the Crossing Arm</strong></p>
+<ul>
+<li>
+<p>Install the arm sections in sequential order. Use only the sections needed for the installation length.</p>
+</li>
+<li>
+<p>Allow telescoping sections to overlap by at least 12".</p>
+</li>
+</ul>
+<p><strong>Step 3: Secure the Crossing Arm</strong></p>
+<ul>
+<li>
+<p>Verify that telescoping arm sections overlap by at least 12".</p>
+</li>
+<li>
+<p>Using a 3/8" drill bit, drill bolt holes  through each of the overlapping sections, 8" away from the end of each section per the diagram.</p>
+</li>
+<li>
+<p>Remove any metal or fiberglass shavings from the drilled holes.</p>
+</li>
+<li>
+<p>Insert provided 3/8" bolts, washers, and nuts to secure the arm.</p>
+</li>
+<li>
+<p>Snug arm bolts with a wrench, do not overtighten.</p>
+</li>
+</ul>
+<h3 id="counterweight-setup">Counterweight Setup<a class="headerlink" href="#counterweight-setup" title="Permanent link">¶</a></h3>
+<div class="admonition warning">
+<p class="admonition-title">Counterweight Warning</p>
+<p>Do not apply counterweight before the roadway gate arm is installed</p>
+</div>
+<div class="admonition caution">
+<p class="admonition-title">Counterweight Blocker Plate</p>
+<p>Do not remove the pre-installed counterweight blocker plate when installing the counterweights.
+Doing so may result in damage to equipment from improperly placed counterweights.</p>
+</div>
+<p><strong>Step 1: Apply Initial Counterweight</strong></p>
+<ul>
+<li>
+<p>Remove the counterweight retaining nuts.</p>
+</li>
+<li>
+<p>Place one counterweight on each side of the crossing arm.</p>
+</li>
+</ul>
+<p><strong>Step 2: Weigh the Arm</strong></p>
+<p><figure id="_figure-4"><img alt="Calibrating Arm Counterweight" src="../assets/crossing_scale.jpg" style="height:350px;width:auto"><figcaption>Figure 4: Calibrating Arm Counterweight</figcaption></figure></p>
+<ul>
+<li>
+<p>Using a digital hanging scale/fish scale, weigh the arm in its final installed configuration.</p>
+</li>
+<li>
+<p>Place the scale 10 feet from the center of the arm pivot point.</p>
+</li>
+<li>
+<p>Refer to the counterweight tables located on Page 22 of the W.C. Hayes 3597 Series OEM manual - "TABLE OF WEIGHT AND VERTICAL TORQUE VALUES FOR FIBERGLASS AND ALUMINUM/FIBERGLASS GATE ARMS: OBLONG COUNTERWEIGHTS WITH ALUMINUM COUNTERWEIGHT ARMS"</p>
+</li>
+<li>
+<p>Add or remove counterweight plates, checking with scale until proper weight is reached for arm length.</p>
+</li>
+</ul>
+<p><strong>Step 3: Secure Counterweight</strong></p>
+<ul>
+<li>
+<p>Add counterweight retaining nuts and washers to secure plates. Tighten til snug, do not overtighten.</p>
+</li>
+<li>
+<p>Stow unused counterweights in counterweight holder.</p>
+</li>
+</ul>
+<h3 id="solar-panel-setup">Solar Panel Setup<a class="headerlink" href="#solar-panel-setup" title="Permanent link">¶</a></h3>
+<p><strong>Step 1: Set Solar Panel Rotation</strong></p>
+<ul>
+<li>
+<p>Remove the banding straps holding the solar panel in place.</p>
+</li>
+<li>
+<p>Loosen the solar panel pipe receiver bolts and rotate the panel to the desired direction.</p>
+</li>
+<li>
+<p>Tighten the pipe reciever bolts to lock the solar panel rotation.</p>
+</li>
+</ul>
+<p><strong>Step 2: Set Solar Panel Inclination</strong></p>
+<p><figure id="_figure-5"><img alt="Solar Panel U-Bolts" src="../assets/crossing_solar_bolts.jpg" style="height:350px;width:auto"><figcaption>Figure 5: Solar Panel U-Bolts</figcaption></figure></p>
+<ul>
+<li>
+<p>Loosen the U-bolt nuts labeled <strong>A</strong> and <strong>B</strong> until the panel tilts freely.</p>
+</li>
+<li>
+<p>Rotate the panel to the desired inclination.</p>
+</li>
+<li>
+<p>Tighten U-bolt nuts <strong>A</strong> and <strong>B</strong> to lock the solar panel inclination.</p>
+</li>
+<li>
+<p>Snug U-bolts with a wrench so that the solar panel will not fall out of postion. Do not overtighten nuts.</p>
+</li>
+</ul>
+<h3 id="roadway-lights-setup">Roadway Lights Setup<a class="headerlink" href="#roadway-lights-setup" title="Permanent link">¶</a></h3>
+<div class="admonition caution">
+<p class="admonition-title">Roadway Lights Orientation</p>
+<p>The direction of the roadway lights are set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.</p>
+</div>
+<h3 id="bell-setup">Bell Setup<a class="headerlink" href="#bell-setup" title="Permanent link">¶</a></h3>
+<div class="admonition caution">
+<p class="admonition-title">Bell Orientation</p>
+<p>The direction of the bell is set by the manufacturer, please return to TXRX for reconfiguration or contact a TXRX representative for on-site instructions.</p>
+</div>
+<p><figure id="_figure-6"><img alt="Crossing Bell" src="../assets/crossing_bell.jpg" style="height:350px;width:auto"><figcaption>Figure 6: Crossing Bell</figcaption></figure></p>
+<ul>
+<li>Refer to Western Cullen Hayes manual for detailed bell instructions.</li>
+</ul>
+<h3 id="crossbuck-and-antenna-setup">Crossbuck and Antenna Setup<a class="headerlink" href="#crossbuck-and-antenna-setup" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Locate the turnbuckle attached via cable to the crossbuck assembly.</p>
+</li>
+<li>
+<p>Pull down on the turnbuckle, raising the crossbuck assembly to a 90° angle.</p>
+</li>
+</ul>
+<p><figure id="_figure-7"><img alt="Turnbuckle Attachment to Retaining Plate" src="../assets/crossing_turnbuckle.jpg" style="height:350px;width:auto"><figcaption>Figure 7: Turnbuckle Attachment to Retaining Plate</figcaption></figure></p>
+<ul>
+<li>
+<p>Hook the turnbuckle to the retaining plate as shown in the above figure.</p>
+</li>
+<li>
+<p>Tighten the turnbuckle until all slack is removed from the cable, securing the crossbuck assembly.</p>
+</li>
+</ul>
+<h2 id="electrical">Electrical<a class="headerlink" href="#electrical" title="Permanent link">¶</a></h2>
+<h3 id="addressing-the-crossing">Addressing the Crossing<a class="headerlink" href="#addressing-the-crossing" title="Permanent link">¶</a></h3>
+<p>Within the controller enclosure, an array of DIP switches are visible. These switches set the address of the crossing. </p>
+<ul>
+<li>
+<p>The DIP switches use binary addressing to allow one remote to be used with multiple crossing systems.</p>
+</li>
+<li>
+<p>Each crossing in an installation must use a unique address.</p>
+</li>
+</ul>
+<h3 id="connecting-the-solar-panel">Connecting the Solar Panel<a class="headerlink" href="#connecting-the-solar-panel" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>Connect battery solar jack to solar plug attached to panel.</p>
+</li>
+<li>
+<p>If using two panels, use the provided Y-splitter to connect both panels to the battery input.</p>
+</li>
+<li>
+<p>Ensure all connections are secure and fully seated.</p>
+</li>
+</ul>
+<h3 id="connecting-the-gate-arm-lights">Connecting the Gate Arm Lights<a class="headerlink" href="#connecting-the-gate-arm-lights" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>The crossing lights are located in the remote storage box on the trailer deck.</p>
+</li>
+<li>
+<p>Refer to the page 15 of the W.C. Hayes 3597 Series OEM manual for detailed installation instructions.</p>
+</li>
+<li>
+<p>Use the provided self-tapping screws to mount the lights to the arm.</p>
+</li>
+<li>
+<p>Use the provided cable clips to affix the cable. Leave slack in the cable for drip points.</p>
+</li>
+<li>
+<p>For installation distances, refer to page 15, figure 8 of the W.C. Hayes 3597 Series OEM manual - "Suggested Roadway Gate Arm Light Spacing"</p>
+</li>
+<li>
+<p>Connect light cable to controller.</p>
+</li>
+<li>
+<p>Ensure all connections are secure and fully seated, and that lights are receiving power.</p>
+</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../crossing_overview/" class="md-footer__link md-footer__link--prev" aria-label="Previous: System Overview">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                System Overview
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../crossing_operation/" class="md-footer__link md-footer__link--next" aria-label="Next: Operation">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                Operation
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Copyright &copy; 2025 Transmit Receive Labs Inc.
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.footer"], "search": "../assets/javascripts/workers/search.7a47a382.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.e71a0d61.min.js"></script>
+      
+    
+  </body>
+</html>
